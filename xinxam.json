@@ -350,6 +350,356 @@
     "tongQuan": "Giai đoạn thử thách.",
     "nhanQua": "Bỏ giữa chừng mất duyên.",
     "loiKhuyen": "Kiên trì."
-  }
+  },
+  {
+    "so": 51,
+    "baiKe": "Một niệm thiện khởi trong tâm,\nNhư đèn thắp sáng giữa tăm tối đời.\nGiữ cho ánh sáng không rời,\nBóng đêm nghiệp cũ dần vơi nhẹ nhàng.",
+    "tongQuan": "Tâm hướng thiện sẽ đổi vận.",
+    "nhanQua": "Một niệm thiện cũng tạo quả lớn.",
+    "loiKhuyen": "Giữ ý nghĩ tích cực."
+  },
+  {
+    "so": 52,
+    "baiKe": "Sớm nghe một tiếng chuông chùa,\nLòng như gột rửa bụi mưa trần tình.\nQuay về soi lại chính mình,\nAn nhiên tự tại giữa dòng đổi thay.",
+    "tongQuan": "Cần thanh lọc nội tâm.",
+    "nhanQua": "Tịnh tâm là chuyển nghiệp.",
+    "loiKhuyen": "Dành thời gian yên tĩnh."
+  },
+  {
+    "so": 53,
+    "baiKe": "Giữ lời hứa tựa giữ vàng,\nĐánh rơi một lần khó mà nhặt lên.\nChân thành vun đắp niềm tin,\nPhước lành theo đó bền bền chẳng xa.",
+    "tongQuan": "Uy tín bị thử thách.",
+    "nhanQua": "Thất tín sinh quả mất lòng tin.",
+    "loiKhuyen": "Cẩn trọng lời cam kết."
+  },
+  {
+    "so": 54,
+    "baiKe": "Thương người như thể thương thân,\nChia nhau một chút ân cần ấm êm.\nGieo nhân từ ái dịu hiền,\nMai sau nhận lại bình yên trong đời.",
+    "tongQuan": "Tình cảm có chuyển biến tốt.",
+    "nhanQua": "Từ bi tạo thiện duyên.",
+    "loiKhuyen": "Mở lòng yêu thương."
+  },
+  {
+    "so": 55,
+    "baiKe": "Khó khăn chẳng phải kẻ thù,\nLà thầy dạy bạn công phu trưởng thành.\nQua rồi mới rõ ngọn ngành,\nNhân xưa trả dứt vận lành mở ra.",
+    "tongQuan": "Đang trong thử thách.",
+    "nhanQua": "Nghiệp trả xong phước sinh.",
+    "loiKhuyen": "Bình tĩnh vượt qua."
+  },
+  {
+    "so": 56,
+    "baiKe": "Một câu nhẫn nhịn hôm nay,\nHơn ngàn lý lẽ đong đầy hơn thua.\nGiữ tâm sáng giữa hơn thua,\nPhước lành tích tụ chẳng chừa ai đâu.",
+    "tongQuan": "Có tranh luận nhỏ.",
+    "nhanQua": "Nhẫn nhịn hóa giải xung đột.",
+    "loiKhuyen": "Đừng cố thắng."
+  },
+  {
+    "so": 57,
+    "baiKe": "Sống đời chân thật hiền hòa,\nChẳng cần tính toán quá xa lợi mình.\nNhân lành gieo xuống âm thầm,\nQuả lành sẽ đến tự nhiên đủ đầy.",
+    "tongQuan": "Nên sống đơn giản.",
+    "nhanQua": "Chân thật sinh phước.",
+    "loiKhuyen": "Đừng mưu cầu quá mức."
+  },
+  {
+    "so": 58,
+    "baiKe": "Tâm an thì bước nhẹ nhàng,\nChẳng lo sóng gió dọc ngang cuộc đời.\nTin sâu luật nghiệp sáng ngời,\nGieo gì gặt nấy chẳng rời nhân duyên.",
+    "tongQuan": "Ổn định dần.",
+    "nhanQua": "Hiểu nhân quả giảm lo.",
+    "loiKhuyen": "Giữ vững niềm tin."
+  },
+  {
+    "so": 59,
+    "baiKe": "Giữ lòng biết ơn mỗi ngày,\nPhước như suối chảy tràn đầy không vơi.\nThan phiền chỉ khiến lệ rơi,\nTri ân giúp mở bầu trời an vui.",
+    "tongQuan": "Tâm dễ than trách.",
+    "nhanQua": "Biết ơn tăng phước.",
+    "loiKhuyen": "Thực hành lòng biết ơn."
+  },
+  {
+    "so": 60,
+    "baiKe": "Danh cao chẳng bằng đức dày,\nTiền nhiều chẳng sánh một ngày an tâm.\nGiữ gìn giới hạnh âm thầm,\nĐó là nền tảng xa gần đều yên.",
+    "tongQuan": "Đạo đức là trọng tâm.",
+    "nhanQua": "Giữ giới bảo vệ phước.",
+    "loiKhuyen": "Đừng vì lợi nhỏ mà sai."
+  },
+  {
+    "so": 61,
+    "baiKe": "Thị phi như gió ngoài hiên,\nCửa lòng khép lại tự nhiên lặng thầm.\nChẳng cần đáp trả ồn âm,\nIm lặng đúng lúc giữ tâm an lành.",
+    "tongQuan": "Dễ bị hiểu lầm.",
+    "nhanQua": "Phản ứng nóng sinh nghiệp.",
+    "loiKhuyen": "Chọn im lặng."
+  },
+  {
+    "so": 62,
+    "baiKe": "Gieo trồng thiện nghiệp từng ngày,\nNhư người chăm lúa sớm mai chiều tà.\nĐủ duyên lúa trổ đơm hoa,\nPhước lành gặt hái chan hòa niềm vui.",
+    "tongQuan": "Công việc tiến triển chậm.",
+    "nhanQua": "Thiện nhỏ tích lớn.",
+    "loiKhuyen": "Kiên trì."
+  },
+  {
+    "so": 63,
+    "baiKe": "Thắng mình là chiến công to,\nHơn người chỉ tạo sóng xô trong lòng.\nGiữ tâm tĩnh giữa dòng sông,\nAn nhiên tự tại thong dong bước đời.",
+    "tongQuan": "Cần tự chủ.",
+    "nhanQua": "Tự thắng là phước lớn.",
+    "loiKhuyen": "Kiểm soát cảm xúc."
+  },
+  {
+    "so": 64,
+    "baiKe": "Oán thù chất chứa lâu ngày,\nNhư mang đá nặng trong tay khó cười.\nBuông đi nhẹ gánh cuộc đời,\nThiện duyên theo đó sáng ngời tương lai.",
+    "tongQuan": "Có chuyện cũ chưa buông.",
+    "nhanQua": "Giữ oán tự khổ.",
+    "loiKhuyen": "Tha thứ."
+  },
+  {
+    "so": 65,
+    "baiKe": "Đừng vì một phút nông nổi,\nMà làm tan vỡ bao ngày dựng xây.\nGiữ tâm tỉnh thức mỗi ngày,\nNhân lành bảo hộ tương lai an bình.",
+    "tongQuan": "Quyết định quan trọng.",
+    "nhanQua": "Hành động nóng tạo quả dài.",
+    "loiKhuyen": "Suy nghĩ kỹ."
+  },
+  {
+    "so": 66,
+    "baiKe": "Biết mình chưa đủ là hay,\nHọc thêm từng chút mỗi ngày tiến lên.\nKiêu căng làm hẹp cửa duyên,\nKhiêm cung mở lối bình yên lâu dài.",
+    "tongQuan": "Cần học hỏi thêm.",
+    "nhanQua": "Khiêm tốn sinh phước.",
+    "loiKhuyen": "Lắng nghe góp ý."
+  },
+  {
+    "so": 67,
+    "baiKe": "Một ngày sống thiện chân thành,\nHơn ngàn mưu tính lợi danh cho mình.\nPhước không tự nhiên mà sinh,\nDo từng hành động âm thầm tạo nên.",
+    "tongQuan": "Nên ưu tiên đạo đức.",
+    "nhanQua": "Thiện hành tạo phước bền.",
+    "loiKhuyen": "Làm việc đúng tâm."
+  },
+  {
+    "so": 68,
+    "baiKe": "Tâm lo như sóng dập dềnh,\nDừng lại thở nhẹ tự mình lặng yên.\nGiữa đời biến động triền miên,\nChánh niệm là bến bình yên quay về.",
+    "tongQuan": "Áp lực cao.",
+    "nhanQua": "Lo nghĩ nhiều sinh nghiệp tâm.",
+    "loiKhuyen": "Thở chậm và nghỉ ngơi."
+  },
+  {
+    "so": 69,
+    "baiKe": "Giữ lòng hiếu nghĩa mẹ cha,\nPhước này sâu nặng chẳng xa chẳng rời.\nƠn sinh dưỡng suốt một đời,\nTrả bằng hiếu hạnh vận thời hanh thông.",
+    "tongQuan": "Gia đạo là chìa khóa vận.",
+    "nhanQua": "Hiếu sinh đại phước.",
+    "loiKhuyen": "Quan tâm cha mẹ."
+  },
+  {
+    "so": 70,
+    "baiKe": "Đường xa từng bước mà đi,\nChớ mong thành tựu tức thì hôm nay.\nNhân gieo đủ tháng đủ ngày,\nQuả lành tự chín chẳng ai tranh giành.",
+    "tongQuan": "Chưa tới thời điểm bứt phá.",
+    "nhanQua": "Thiếu duyên chưa thành.",
+    "loiKhuyen": "Kiên nhẫn."
+  },
+  {
+    "so": 71,
+    "baiKe": "Làm người quý nhất chữ tâm,\nGiữ sao trong sạch âm thầm là vui.\nNgoài kia sóng gió ngược xuôi,\nTâm yên thì cảnh cũng vui theo cùng.",
+    "tongQuan": "Nội tâm quyết định tất cả.",
+    "nhanQua": "Tâm là gốc mọi quả.",
+    "loiKhuyen": "Chăm sóc đời sống tinh thần."
+  },
+  {
+    "so": 72,
+    "baiKe": "Gieo nhân nhẫn nhịn hôm nay,\nMai sau nhận lại tháng ngày bình yên.\nHơn thua chỉ chuốc não phiền,\nBuông ra nhẹ gánh ưu phiền trần gian.",
+    "tongQuan": "Có mâu thuẫn nhỏ.",
+    "nhanQua": "Nhẫn tạo thiện duyên.",
+    "loiKhuyen": "Chọn hòa khí."
+  },
+  {
+    "so": 73,
+    "baiKe": "Sống đời cần chút bao dung,\nLỗi người cũng bởi vô cùng nhân duyên.\nTha thứ mở lối bình yên,\nKhép trang oán cũ dựng nền tương lai.",
+    "tongQuan": "Nên tha thứ.",
+    "nhanQua": "Bao dung sinh phước.",
+    "loiKhuyen": "Đừng chấp chuyện cũ."
+  },
+  {
+    "so": 74,
+    "baiKe": "Một niệm ích kỷ khởi lên,\nChe mờ ánh sáng tâm hiền bấy lâu.\nBiết mình dừng lại kịp đầu,\nChuyển tâm là chuyển vận sau nhẹ nhàng.",
+    "tongQuan": "Có suy nghĩ tiêu cực.",
+    "nhanQua": "Ý xấu tạo nhân xấu.",
+    "loiKhuyen": "Chuyển hóa suy nghĩ."
+  },
+  {
+    "so": 75,
+    "baiKe": "Được người tin tưởng quý thay,\nGiữ sao cho trọn từng ngày từng giờ.\nĐánh rơi khó nhặt lại nhờ,\nChân thành vun đắp phước chờ nở hoa.",
+    "tongQuan": "Niềm tin rất quan trọng.",
+    "nhanQua": "Mất tín sinh cô lập.",
+    "loiKhuyen": "Sống có trách nhiệm."
+  },
+  {
+    "so": 76,
+    "baiKe": "Sóng to rồi cũng lặng dần,\nBão qua trời lại thanh tân sắc màu.\nKhó khăn chỉ thử công phu,\nQua rồi mới thấy nhiệm mầu vận xoay.",
+    "tongQuan": "Vận xấu sắp qua.",
+    "nhanQua": "Nghiệp nhẹ đang tiêu.",
+    "loiKhuyen": "Giữ niềm tin."
+  },
+  {
+    "so": 77,
+    "baiKe": "Tiền tài như bóng phù vân,\nĐức dày mới thật theo chân lâu dài.\nSống sao trọn nghĩa hôm nay,\nNgày mai tự khắc an bài phước duyên.",
+    "tongQuan": "Đừng quá đặt nặng tiền bạc.",
+    "nhanQua": "Đức là gốc của phước.",
+    "loiKhuyen": "Ưu tiên nhân cách."
+  },
+  {
+    "so": 78,
+    "baiKe": "Thấy người thành đạt chớ ganh,\nTùy hỷ công đức phước lành tăng thêm.\nGieo tâm hoan hỷ dịu êm,\nMai sau quả tốt ắt đem về mình.",
+    "tongQuan": "Tâm so sánh đang sinh khổ.",
+    "nhanQua": "Ganh tỵ sinh nghiệp.",
+    "loiKhuyen": "Tập tùy hỷ."
+  },
+  {
+    "so": 79,
+    "baiKe": "Đừng xem thường việc nhỏ thôi,\nGiọt mưa tích lại thành đồi nước cao.\nThiện lành vun đắp từng ngày,\nPhước như biển rộng chẳng hay lúc nào.",
+    "tongQuan": "Thành công từ điều nhỏ.",
+    "nhanQua": "Thiện nhỏ tích lớn.",
+    "loiKhuyen": "Chăm chút từng chi tiết."
+  },
+  {
+    "so": 80,
+    "baiKe": "Lùi một bước biển trời rộng,\nNhẫn một câu sóng gió yên.\nGiữ tâm hiền hậu tự nhiên,\nVận lành theo đó bình yên dài lâu.",
+    "tongQuan": "Có xung đột nhỏ.",
+    "nhanQua": "Nhẫn sinh phước.",
+    "loiKhuyen": "Chọn hòa thay vì thắng."
+  },
+  {
+    "so": 81,
+    "baiKe": "Tự soi lỗi mình trước tiên,\nĐừng vội xét nét chuyện riêng của người.\nSửa mình mỗi sớm mỗi trưa,\nVận lành theo đó dần dần mở ra.",
+    "tongQuan": "Có hiểu lầm.",
+    "nhanQua": "Chỉ trích sinh nghiệp.",
+    "loiKhuyen": "Tự nhìn lại mình."
+  },
+  {
+    "so": 82,
+    "baiKe": "Giữ lòng khiêm hạ nhẹ nhàng,\nThành công đến cũng chẳng màng khoe khoang.\nPhước dày bởi đức rõ ràng,\nChẳng vì danh lợi mà mang kiêu mạn.",
+    "tongQuan": "Có thành tựu.",
+    "nhanQua": "Kiêu ngạo hao phước.",
+    "loiKhuyen": "Giữ khiêm tốn."
+  },
+  {
+    "so": 83,
+    "baiKe": "Học cách lắng nghe nhiều hơn,\nHiểu người thêm chút bớt sờn khổ đau.\nNhân lành từ đó sinh màu,\nQuan hệ hòa thuận trước sau vẹn toàn.",
+    "tongQuan": "Giao tiếp cần cải thiện.",
+    "nhanQua": "Biết nghe sinh thiện duyên.",
+    "loiKhuyen": "Lắng nghe thật sự."
+  },
+  {
+    "so": 84,
+    "baiKe": "Tâm như đất tốt mưa hiền,\nGieo gì cũng mọc đủ duyên đủ ngày.\nGiữ cho đất chẳng cỏ dày,\nÝ lành chăm sóc phước đầy nở hoa.",
+    "tongQuan": "Tâm là nền tảng.",
+    "nhanQua": "Ý nghĩ quyết định quả.",
+    "loiKhuyen": "Giữ suy nghĩ tích cực."
+  },
+  {
+    "so": 85,
+    "baiKe": "Đừng vì lợi nhỏ trước mắt,\nMà quên giá trị dài lâu cuộc đời.\nChọn điều đúng giữa ngược xuôi,\nPhước duyên theo đó sáng ngời mai sau.",
+    "tongQuan": "Quyết định liên quan lợi ích.",
+    "nhanQua": "Sai nhỏ sinh quả lớn.",
+    "loiKhuyen": "Chọn đạo đức."
+  },
+  {
+    "so": 86,
+    "baiKe": "Một ngày sống chậm lại thôi,\nNghe tim mình đập giữa đời vội vã.\nChánh niệm là ánh đuốc lửa,\nSoi đường giữa những phong ba cuộc đời.",
+    "tongQuan": "Quá bận rộn.",
+    "nhanQua": "Vội vã sinh sai lầm.",
+    "loiKhuyen": "Sống chậm lại."
+  },
+  {
+    "so": 87,
+    "baiKe": "Thiện tâm chẳng đợi giàu sang,\nNgay khi khó vẫn sẵn sàng sẻ chia.\nGieo nhân trong lúc thiếu thừa,\nPhước sinh bền vững chẳng chừa một ai.",
+    "tongQuan": "Có cơ hội làm thiện.",
+    "nhanQua": "Bố thí sinh phước.",
+    "loiKhuyen": "Giúp người khi có thể."
+  },
+  {
+    "so": 88,
+    "baiKe": "Tâm sáng như ánh trăng rằm,\nDù mây che phủ vẫn ngầm tỏa soi.\nGiữ cho trí tuệ sáng ngời,\nĐừng vì cảm xúc mà rời chính tâm.",
+    "tongQuan": "Cảm xúc dễ lấn át lý trí.",
+    "nhanQua": "Thiếu tỉnh thức sinh lỗi.",
+    "loiKhuyen": "Giữ tỉnh táo."
+  },
+  {
+    "so": 89,
+    "baiKe": "Khó khăn chẳng mãi ở đây,\nNhư mưa rồi tạnh như mây tan dần.\nTin sâu nhân quả xoay vần,\nQua cơn giông tố trời quang lại về.",
+    "tongQuan": "Thử thách tạm thời.",
+    "nhanQua": "Nghiệp tiêu vận mở.",
+    "loiKhuyen": "Kiên trì."
+  },
+  {
+    "so": 90,
+    "baiKe": "Đức dày như gốc cây sâu,\nGió đời lay động vẫn đâu ngã lòng.\nChăm tu giữa chốn bụi hồng,\nAn nhiên tự tại thong dong tháng ngày.",
+    "tongQuan": "Nội lực là chìa khóa.",
+    "nhanQua": "Đức là nền móng.",
+    "loiKhuyen": "Rèn nội tâm."
+  },
+  {
+    "so": 91,
+    "baiKe": "Giữ lời ái ngữ dịu dàng,\nMột câu hiền hậu mở ngàn cửa tâm.\nGieo nhân hòa ái âm thầm,\nQuả vui theo bước chẳng lầm chẳng sai.",
+    "tongQuan": "Quan hệ có thể cải thiện.",
+    "nhanQua": "Ái ngữ sinh thiện duyên.",
+    "loiKhuyen": "Nói lời xây dựng."
+  },
+  {
+    "so": 92,
+    "baiKe": "Đừng vì một chút lợi danh,\nĐánh đổi nhân nghĩa chân thành đã gieo.\nGiữ tâm sáng tựa trăng treo,\nMai sau phước đến dập dìu không xa.",
+    "tongQuan": "Có cám dỗ.",
+    "nhanQua": "Tham lợi nhỏ sinh nghiệp.",
+    "loiKhuyen": "Giữ nguyên tắc."
+  },
+  {
+    "so": 93,
+    "baiKe": "Tự chủ giữa chốn xô bồ,\nLà người có trí hơn thua chẳng màng.\nMột ngày sống chánh đoan trang,\nHơn năm dài tháng mơ màng lợi danh.",
+    "tongQuan": "Cần tự kiểm soát.",
+    "nhanQua": "Tự chủ sinh phước.",
+    "loiKhuyen": "Kiềm chế cảm xúc."
+  },
+  {
+    "so": 94,
+    "baiKe": "Thiện duyên gặp gỡ hôm nay,\nChẳng do tình cờ mà bởi nhân xưa.\nTrân trọng giữ lấy cho vừa,\nMai sau kết trái an vui đủ đầy.",
+    "tongQuan": "Có nhân duyên tốt.",
+    "nhanQua": "Duyên đến từ nhân cũ.",
+    "loiKhuyen": "Giữ gìn mối quan hệ."
+  },
+  {
+    "so": 95,
+    "baiKe": "Đừng vì thất bại một lần,\nMà quên bao bước đã gần thành công.\nKiên tâm giữ vững ước mong,\nNhân lành tiếp tục vun trồng nở hoa.",
+    "tongQuan": "Thất bại tạm thời.",
+    "nhanQua": "Bỏ cuộc mất duyên.",
+    "loiKhuyen": "Đứng lên tiếp tục."
+  },
+  {
+    "so": 96,
+    "baiKe": "Giữ lòng thanh thản nhẹ nhàng,\nChớ mang phiền não chất chồng trong tim.\nBuông đi để được an nhiên,\nTâm yên phước đến tự nhiên đủ đầy.",
+    "tongQuan": "Cần giải tỏa tâm lý.",
+    "nhanQua": "Chấp giữ sinh khổ.",
+    "loiKhuyen": "Buông bớt lo toan."
+  },
+  {
+    "so": 97,
+    "baiKe": "Một đời ngắn ngủi phù sinh,\nSống sao xứng đáng nghĩa tình hôm nay.\nThiện lành gieo xuống từng ngày,\nMai sau để lại hương bay giữa đời.",
+    "tongQuan": "Nhắc về giá trị sống.",
+    "nhanQua": "Chỉ đức hạnh còn lại.",
+    "loiKhuyen": "Sống có ý nghĩa."
+  },
+  {
+    "so": 98,
+    "baiKe": "Gặp nghịch cảnh chớ than van,\nĐó là cơ hội luyện gan vững bền.\nQua rồi mới thấy căn nguyên,\nNghiệp xưa trả dứt vận duyên mở ra.",
+    "tongQuan": "Thử thách giúp trưởng thành.",
+    "nhanQua": "Trả nghiệp xong phước sinh.",
+    "loiKhuyen": "Kiên cường."
+  },
+  {
+    "so": 99,
+    "baiKe": "Tin sâu nhân quả vận hành,\nChẳng gì tự đến chẳng thành tự nhiên.\nGieo gì ắt gặt quả liền,\nSớm hay muộn chỉ tùy duyên đủ đầy.",
+    "tongQuan": "Mọi việc đang đúng luật.",
+    "nhanQua": "Nhân quả công bằng.",
+    "loiKhuyen": "Gieo điều thiện."
+  },
+  {
+    "so": 100,
+    "baiKe": "Tròn duyên trăm quẻ hôm nay,\nHiểu sâu nhân quả đổi thay chính mình.\nTâm là gốc rễ vận sinh,\nGiữ tâm chánh thiện bình minh mở đường.",
+    "tongQuan": "Quẻ viên mãn – tự mình quyết định vận mệnh.",
+    "nhanQua": "Tâm đổi thì nghiệp đổi.",
+    "loiKhuyen": "Sống chánh niệm mỗi ngày."
   }
 ]
+
