@@ -2,12 +2,12 @@
   {
     "so": 1,
     "ten_que": "Thiên Địa Khai Thái",
-    "loai_xam": "Thượng Thượng (Rất Tốt)",
+    "loai_xam": "Thượng Thượng",
     "loi_tho": "Thiên địa khai thái vạn vật tân\nHạnh phước lâm môn hỷ khí tân\nCầu tài đắc lợi gia đình thịnh\nVạn sự như ý hưởng chánh nhân",
-    "y_nghia_tho": "Quẻ này tượng trưng cho sự khởi đầu mới tốt đẹp, vạn vật sinh sôi. Mọi việc mong cầu đều thành công rực rỡ, gia đình hạnh phúc nhờ sống đúng chánh đạo.",
+    "y_nghia_tho": "Quẻ này tượng trưng cho sự khởi đầu mới tốt đẹp, vạn vật sinh sôi. Mọi việc mong cầu đều thành công rực rỡ nhờ sống đúng chánh đạo.",
     "loi_giai": {
       "cau_tai": "Đắc lợi, tiền bạc dồi dào.",
-      "gia_trach": "Hưng thịnh, có tin vui về người thêm của.",
+      "gia_trach": "Hưng thịnh, thêm người thêm của.",
       "benh_tat": "Mau chóng bình phục, gặp thầy gặp thuốc.",
       "tinh_duyen": "Hòa hợp, duyên tình viên mãn.",
       "di_xa": "Thuận buồm xuôi gió, gặp quý nhân.",
@@ -20,8 +20,8 @@
     "so": 2,
     "ten_que": "Cam Lộ Quán Đảnh",
     "loai_xam": "Thượng Cát",
-    "loi_tho": "Bồ Tát rưới nước nhành dương liễu\nSạch hết trần ai, khổ não tiêu\nLòng thành hướng thiện phước vô lượng\nTrí huệ khai thông vạn sự điều",
-    "y_nghia_tho": "Giống như được nước cam lộ của Bồ Tát tưới mát, mọi khó khăn và ưu phiền sẽ qua đi. Chỉ cần giữ lòng thiện lương thì việc gì cũng hanh thông.",
+    "loi_tho": "Bồ Tát rưới nước nhành dương liễu\nSạch hết trần ai khổ não tiêu\nLòng thành hướng thiện phước vô lượng\nTrí huệ khai thông vạn sự điều",
+    "y_nghia_tho": "Như được nước cam lộ tưới mát, mọi khó khăn và ưu phiền sẽ qua đi. Chỉ cần giữ lòng thiện lương thì việc gì cũng hanh thông.",
     "loi_giai": {
       "cau_tai": "Có lộc bất ngờ, đủ dùng.",
       "gia_trach": "Gia đạo bình an, con cháu hiếu thảo.",
@@ -36,307 +36,647 @@
   {
     "so": 3,
     "ten_que": "Minh Tâm Kiến Tánh",
-    "loai_xam": "Đại Cát",
+    "loai_xam": "Trung Cát",
     "loi_tho": "Trăng rằm soi sáng khắp nhân gian\nTâm lặng thì nghe sóng đạo ngàn\nViệc đời chẳng ngại nhờ tu đức\nThành quả cầm tay, dạ chẳng nan",
-    "y_nghia_tho": "Khi tâm sáng thì mọi việc đều rõ ràng. Quẻ này cho thấy nếu giữ được sự định tĩnh và đạo đức, bạn sẽ đạt được thành công lớn.",
+    "y_nghia_tho": "Khi tâm sáng thì mọi việc đều rõ ràng. Quẻ này cho thấy nếu giữ được sự định tĩnh và đạo đức, bạn sẽ đạt được thành quả mong đợi.",
     "loi_giai": {
-      "cau_tai": "Hưng vượng, đầu tư có lãi.",
-      "gia_trach": "Ấm êm, có tin hỷ sự.",
-      "benh_tat": "An tâm điều trị sẽ dứt điểm.",
+      "cau_tai": "Khá, đầu tư có lãi nếu làm ăn chân chính.",
+      "gia_trach": "Ấm êm, có tin vui về học hành.",
+      "benh_tat": "An tâm điều trị, không nên lo lắng quá.",
       "tinh_duyen": "Xứng đôi vừa lứa, sớm thành gia thất.",
-      "di_xa": "Rất tốt, mở mang được tầm nhìn.",
-      "phap_luat": "Lẽ phải chiến thắng, công lý rõ ràng.",
+      "di_xa": "Tốt, mở mang được tầm nhìn.",
+      "phap_luat": "Lẽ phải thuộc về mình, nên khiêm nhường.",
       "ban_than": "Được mọi người kính trọng.",
       "mat_cua": "Tìm lại được trong thời gian ngắn."
     }
   },
   {
     "so": 4,
+    "ten_que": "Tùy Duyên Tự Tại",
+    "loai_xam": "Trung Bình",
+    "loi_tho": "Hoa nở hoa tàn theo gió bay\nViệc đời thành bại vốn xưa nay\nTùy duyên mà sống lòng không động\nMây tựa lưng đồi hạc vút mây",
+    "y_nghia_tho": "Mọi việc nên thuận theo tự nhiên, không nên cưỡng cầu. Khi bạn chấp nhận thực tại, sự bình an sẽ đến.",
+    "loi_giai": {
+      "cau_tai": "Chưa tới lúc, cần chờ đợi thời cơ.",
+      "gia_trach": "Bình an, không có biến động lớn.",
+      "benh_tat": "Cần nghỉ ngơi, không nên lo lắng quá mức.",
+      "tinh_duyen": "Duyên chưa tới, hãy kiên nhẫn bồi đắp.",
+      "di_xa": "Chưa nên đi xa vào lúc này.",
+      "phap_luat": "Chậm mà chắc, không nên nôn nóng tranh giành.",
+      "ban_than": "Cần tu tập thêm sự nhẫn nại.",
+      "mat_cua": "Mất rồi, khó tìm lại được ngay."
+    }
+  },
+  {
+    "so": 5,
     "ten_que": "Phước Huệ Song Tu",
     "loai_xam": "Thượng Thượng",
     "loi_tho": "Gieo nhân đức hạnh gặt bông lành\nTrí sáng tâm trong vạn sự thành\nDanh lợi xưa nay nhờ phước báo\nTrời xanh chẳng phụ tấm lòng thành",
-    "y_nghia_tho": "Tu phước và tu huệ đi đôi sẽ mang lại kết quả viên mãn. Mọi mong cầu về danh lợi đều có được từ gốc rễ đạo đức.",
+    "y_nghia_tho": "Tu phước (giúp người) và tu huệ (học đạo) đi đôi sẽ mang lại kết quả viên mãn. Mọi sự đều thành công nhờ nền tảng đạo đức.",
     "loi_giai": {
-      "cau_tai": "Tiền tài tự đến, không cần cưỡng cầu.",
-      "gia_trach": "Vinh hiển, dòng họ được nhờ.",
+      "cau_tai": "Tiền tài tự đến, hưng vượng.",
+      "gia_trach": "Vinh hiển, dòng họ được hưởng lộc.",
       "benh_tat": "Sức khỏe dồi dào, không lo đau ốm.",
       "tinh_duyen": "Duyên lành trời định, hạnh phúc bền chặt.",
-      "di_xa": "Gặp được thiện tri thức giúp đỡ.",
+      "di_xa": "Gặp được thiện tri thức giúp đỡ tận tình.",
       "phap_luat": "Hòa bình, mọi tranh chấp tự tan biến.",
       "ban_than": "Sống trong niềm vui và sự tôn trọng.",
       "mat_cua": "Mất rồi lại thấy, vật về chủ cũ."
     }
   },
   {
-    "so": 5,
+    "so": 6,
     "ten_que": "Liên Hoa Hóa Sanh",
     "loai_xam": "Thượng Cát",
-    "loi_tho": "Bùn lầy chẳng nhiễm ngát hương sen\nThử thách đi qua, đạo sáng đèn\nKiên trì bền chí tâm không đổi\nQuả ngọt kề bên, rạng rỡ khen",
-    "y_nghia_tho": "Vượt qua khó khăn (như sen mọc từ bùn) để đạt đến vinh quang. Quẻ nhắc nhở cần kiên trì và giữ mình trong sạch giữa nghịch cảnh.",
+    "loi_tho": "Bùn lầy chẳng nhiễm ngát hương sen\nThử thách đi qua đạo sáng đèn\nKiên trì bền chí tâm không đổi\nQuả ngọt kề bên rạng rỡ khen",
+    "y_nghia_tho": "Vượt qua khó khăn để đạt đến vinh quang như sen mọc từ bùn. Quẻ nhắc nhở cần kiên trì giữ mình trong sạch.",
     "loi_giai": {
-      "cau_tai": "Lúc đầu khó khăn, sau đại thắng.",
+      "cau_tai": "Lúc đầu khó khăn, sau có lộc lớn.",
       "gia_trach": "Vượt qua sóng gió, gia đình thêm gắn kết.",
-      "benh_tat": "Cần kiên trì điều trị, sẽ bình phục.",
+      "benh_tat": "Cần kiên trì điều trị theo hướng hiện tại.",
       "tinh_duyen": "Trải qua thử thách mới đến được với nhau.",
       "di_xa": "Có chút trắc trở ban đầu nhưng kết quả tốt.",
-      "phap_luat": "Cần sự nhẫn nại, cuối cùng sẽ công bằng.",
+      "phap_luat": "Cần sự nhẫn nại, công lý sẽ được thực thi.",
       "ban_than": "Bản lĩnh vững vàng, hậu vận rực rỡ.",
-      "mat_cua": "Tìm thấy ở nơi gần nước hoặc bùn lầy."
-    }
-  },
-  {
-    "so": 6,
-    "ten_que": "Bát Nhã Thuyền Từ",
-    "loai_xam": "Trung Cát",
-    "loi_tho": "Bến mê nhìn lại thấy bờ kia\nThuyền từ cứu độ chẳng hề chia\nBuông xả ưu phiền lòng tự tại\nThong dong tự tại buổi sương khuya",
-    "y_nghia_tho": "Lời khuyên nên buông bỏ chấp trước và lo âu. Khi tâm không còn vướng bận, bạn sẽ thấy con đường thoát khỏi khó khăn hiện tại.",
-    "loi_giai": {
-      "cau_tai": "Bình thường, đủ chi tiêu.",
-      "gia_trach": "Nên dĩ hòa vi quý, tránh cãi vã.",
-      "benh_tat": "Bệnh do tâm lý, cần thư giãn thiền định.",
-      "tinh_duyen": "Thuận theo tự nhiên, không nên gượng ép.",
-      "di_xa": "Nên đi để thay đổi không khí, giải tỏa tâm trí.",
-      "phap_luat": "Nên chọn con đường hòa giải.",
-      "ban_than": "Đang trong giai đoạn chuyển hóa tâm thức.",
-      "mat_cua": "Khó tìm, coi như là sự bố thí."
+      "mat_cua": "Tìm thấy ở nơi gần nước hoặc hướng Bắc."
     }
   },
   {
     "so": 7,
-    "ten_que": "Thiện Nhân Thiện Quả",
-    "loai_xam": "Thượng Cát",
-    "loi_tho": "Xưa nay nhân quả chẳng hề sai\nLàm thiện trời ban phước lộc dài\nHành trang mang theo lòng nhân ái\nĐường đời thẳng tắp chẳng chông gai",
-    "y_nghia_tho": "Khẳng định luật nhân quả. Bạn đã gieo nhân tốt nên giờ là lúc hái quả ngọt. Hãy tiếp tục làm việc thiện.",
+    "ten_que": "Bát Nhã Thuyền Từ",
+    "loai_xam": "Trung Cát",
+    "loi_tho": "Bến mê nhìn lại thấy bờ kia\nThuyền từ cứu độ chẳng hề chia\nBuông xả ưu phiền lòng tự tại\nThong dong tự tại buổi sương khuya",
+    "y_nghia_tho": "Lời khuyên nên buông bỏ chấp trước. Khi tâm không còn vướng bận, bạn sẽ thấy con đường thoát khỏi khó khăn.",
     "loi_giai": {
-      "cau_tai": "Cầu tài có tài, cầu lộc có lộc.",
-      "gia_trach": "An khang thịnh vượng.",
-      "benh_tat": "Gặp thầy giỏi, thuốc quý.",
-      "tinh_duyen": "Gặp được người cùng chí hướng, đại hỷ.",
-      "di_xa": "Đi xa có lợi, gặp nhiều bạn tốt.",
-      "phap_luat": "Được minh oan, thắng kiện.",
-      "ban_than": "Nhiều người giúp đỡ, uy tín tăng cao.",
-      "mat_cua": "Sẽ tìm thấy do người tốt chỉ bảo."
+      "cau_tai": "Bình thường, đủ chi tiêu, không lo thiếu.",
+      "gia_trach": "Nên dĩ hòa vi quý, tránh cãi vã nhỏ nhặt.",
+      "benh_tat": "Bệnh do tâm lý, cần thư giãn, hành thiện.",
+      "tinh_duyen": "Thuận theo tự nhiên, không nên gượng ép.",
+      "di_xa": "Nên đi để thay đổi không khí, giải tỏa tâm trí.",
+      "phap_luat": "Nên chọn con đường hòa giải là tốt nhất.",
+      "ban_than": "Đang trong giai đoạn chuyển hóa tâm thức.",
+      "mat_cua": "Khó tìm, hãy coi như của đi thay người."
     }
   },
   {
     "so": 8,
-    "ten_que": "Tùy Duyên Tự Tại",
+    "ten_que": "Khổ Hải Từ Hàng",
     "loai_xam": "Trung Bình",
-    "loi_tho": "Hoa nở hoa tàn theo gió bay\nViệc đời thành bại vốn xưa nay\nTùy duyên mà sống lòng không động\nMây tựa lưng đồi, hạc vút mây",
-    "y_nghia_tho": "Mọi việc nên thuận theo tự nhiên, không nên cưỡng cầu. Khi bạn chấp nhận thực tại, sự bình an sẽ đến và mọi việc tự khắc ổn định.",
+    "loi_tho": "Sóng dập thuyền nan giữa biển khơi\nLòng thành khấn nguyện Phật phương trời\nKiên gan bền chí qua giông bão\nBến đỗ bình yên rạng cuộc đời",
+    "y_nghia_tho": "Đang trong giai đoạn thử thách gian nan. Cần niềm tin vững chắc và sự kiên trì để vượt qua khó khăn hiện tại.",
     "loi_giai": {
-      "cau_tai": "Chưa tới lúc, cần chờ đợi thời cơ.",
-      "gia_trach": "Bình an, không có biến động lớn.",
-      "benh_tat": "Cần nghỉ ngơi, không nên lo lắng quá mức.",
-      "tinh_duyen": "Duyên chưa tới, hãy kiên nhẫn.",
-      "di_xa": "Chưa nên đi xa vào lúc này.",
-      "phap_luat": "Chậm mà chắc, không nên nôn nóng.",
-      "ban_than": "Cần tu tập thêm sự nhẫn nại.",
-      "mat_cua": "Mất rồi, khó tìm lại được."
+      "cau_tai": "Tiền bạc eo hẹp, không nên đầu tư lớn.",
+      "gia_trach": "Có chút bất hòa, cần người lớn đứng ra khuyên giải.",
+      "benh_tat": "Bệnh kéo dài, cần thành tâm cầu an.",
+      "tinh_duyen": "Nhiều sóng gió, cần sự bao dung lớn lao.",
+      "di_xa": "Đi xa gặp trở ngại thời tiết hoặc phương tiện.",
+      "phap_luat": "Tranh chấp dây dưa, chưa có kết quả ngay.",
+      "ban_than": "Nên ẩn nhẫn, chờ đợi thời cơ.",
+      "mat_cua": "Mất rồi, khó lấy lại được hoàn toàn."
     }
   },
   {
     "so": 9,
-    "ten_que": "Tinh Tấn Hành Trì",
-    "loai_xam": "Thượng Cát",
-    "loi_tho": "Đường dài vạn dặm bước không ngơi\nCông đức vun trồng phước khắp nơi\nChăm chỉ siêng năng trời giúp sức\nVinh hoa phú quý định do trời",
-    "y_nghia_tho": "Sự nỗ lực và siêng năng (tinh tấn) sẽ mang lại thành quả. Đừng bỏ cuộc giữa chừng vì thành công đang ở rất gần.",
+    "ten_que": "Vạn Đức Trang Nghiêm",
+    "loai_xam": "Thượng Thượng",
+    "loi_tho": "Công đức vun bồi rạng tổ tông\nHào quang soi sáng rực phương đông\nCầu danh cầu lợi đều viên mãn\nThân tâm thanh tịnh hưởng phước hồng",
+    "y_nghia_tho": "Nhờ phước đức sâu dày từ trước, nay là lúc gặt hái thành công rực rỡ trên mọi phương diện.",
     "loi_giai": {
-      "cau_tai": "Làm bao nhiêu hưởng bấy nhiêu, rất khá.",
-      "gia_trach": "Có sự thăng tiến trong công việc của thành viên.",
-      "benh_tat": "Sức khỏe cải thiện nhờ rèn luyện.",
-      "tinh_duyen": "Sự chân thành sẽ cảm hóa được đối phương.",
-      "di_xa": "Đi để học hỏi, rất có ích.",
-      "phap_luat": "Cứ theo luật pháp mà làm, sẽ thắng.",
-      "ban_than": "Năng lượng dồi dào, ý chí mạnh mẽ.",
-      "mat_cua": "Tìm thấy ở nơi làm việc."
+      "cau_tai": "Đại cát, tiền tài dồi dào, kinh doanh phát đạt.",
+      "gia_trach": "Hưng vượng, con cái đỗ đạt, gia đình vinh hiển.",
+      "benh_tat": "Khỏe mạnh, sống trường thọ.",
+      "tinh_duyen": "Hạnh phúc viên mãn, gặp duyên tiền định.",
+      "di_xa": "Rất tốt, đi xa gặp đại quý nhân bảo hộ.",
+      "phap_luat": "Toàn thắng, công lý đứng về phía mình.",
+      "ban_than": "Uy tín tăng cao, nhiều người kính nể.",
+      "mat_cua": "Tìm lại được vật quý giá đã mất."
     }
   },
   {
     "so": 10,
     "ten_que": "Từ Bi Hỷ Xả",
     "loai_xam": "Thượng Cát",
-    "loi_tho": "Mở rộng lòng ra thương vạn loài\nOán thù buông bỏ, nhẹ đôi vai\nTừ bi là gốc sinh phước báo\nHỷ xả là hoa ngát dặm dài",
-    "y_nghia_tho": "Khuyên người xin xăm nên lấy lòng từ bi để đối đãi với người xung quanh. Khi buông bỏ được hận thù, may mắn sẽ tự tìm đến.",
+    "loi_tho": "Mở rộng lòng ra thương vạn loài\nOán thù buông bỏ nhẹ đôi vai\nTừ bi là gốc sinh phước báo\nHỷ xả là hoa ngát dặm dài",
+    "y_nghia_tho": "Lấy lòng từ bi để đối đãi với người xung quanh. Khi buông bỏ được hận thù, may mắn sẽ tự tìm đến.",
     "loi_giai": {
-      "cau_tai": "Khá, có lộc từ việc thiện.",
-      "gia_trach": "Hòa thuận, hóa giải được mâu thuẫn cũ.",
-      "benh_tat": "Tâm bệnh thuyên giảm, thân bệnh cũng bớt.",
+      "cau_tai": "Khá, có lộc đến từ những việc làm nhân đạo.",
+      "gia_trach": "Hòa thuận, hóa giải được mâu thuẫn cũ lâu ngày.",
+      "benh_tat": "Tâm bệnh thuyên giảm, thân bệnh cũng bớt theo.",
       "tinh_duyen": "Yêu thương chân thành, kết cục tốt đẹp.",
       "di_xa": "Thuận lợi, kết giao được nhiều bạn thiện tâm.",
-      "phap_luat": "Nên tha thứ, nhường nhịn sẽ có lợi hơn.",
+      "phap_luat": "Nên tha thứ, nhường nhịn sẽ có lợi hơn tranh chấp.",
       "ban_than": "Được mọi người yêu mến, nể trọng.",
-      "mat_cua": "Người lấy sẽ tự đem trả hoặc bù đắp lại."
+      "mat_cua": "Người lấy sẽ tự đem trả hoặc được bù đắp."
     }
   },
   {
     "so": 11,
-    "ten_que": "Ngũ Uẩn Giai Không",
-    "loai_xam": "Trung Bình",
-    "loi_tho": "Sắc sắc không không mộng hão huyền\nĐừng vì hư ảo lụy trần duyên\nTâm không vướng bận đời thanh thản\nTrăng sáng soi dòng nước tĩnh yên",
-    "y_nghia_tho": "Nhắc nhở về tính không của vạn vật. Đừng quá tham luyến danh lợi hư ảo mà làm khổ mình. Hãy sống giản đơn.",
+    "ten_que": "Tinh Tấn Hành Trì",
+    "loai_xam": "Trung Cát",
+    "loi_tho": "Đường dài vạn dặm bước không ngơi\nCông đức vun trồng phước khắp nơi\nChăm chỉ siêng năng trời giúp sức\nVinh hoa phú quý định do người",
+    "y_nghia_tho": "Sự nỗ lực và siêng năng sẽ mang lại thành quả. Đừng bỏ cuộc giữa chừng vì thành công đang ở phía trước.",
     "loi_giai": {
-      "cau_tai": "Vừa đủ, không nên tham lam.",
-      "gia_trach": "Cần chú trọng đời sống tinh thần hơn vật chất.",
-      "benh_tat": "Nghiệp từ miệng mà ra, nên ăn uống thanh đạm.",
-      "tinh_duyen": "Đừng quá kỳ vọng, hãy để tùy duyên.",
-      "di_xa": "Không nên cầu lợi quá mức khi đi xa.",
-      "phap_luat": "Sự thật sẽ được phơi bày, không cần tranh cãi.",
-      "ban_than": "Cần tìm lại chính mình qua thiền định.",
-      "mat_cua": "Của cải là vật ngoài thân, chớ sầu bi."
+      "cau_tai": "Làm bao nhiêu hưởng bấy nhiêu, khá giả.",
+      "gia_trach": "Có sự thăng tiến trong công việc của thành viên.",
+      "benh_tat": "Sức khỏe cải thiện rõ rệt nhờ lối sống lành mạnh.",
+      "tinh_duyen": "Sự chân thành sẽ cảm hóa được đối phương.",
+      "di_xa": "Đi xa để học hỏi kiến thức mới rất có ích.",
+      "phap_luat": "Cứ theo lẽ phải mà làm, sẽ nhận kết quả xứng đáng.",
+      "ban_than": "Năng lượng dồi dào, ý chí mạnh mẽ.",
+      "mat_cua": "Tìm thấy ở nơi làm việc hoặc chỗ thường lui tới."
     }
   },
   {
     "so": 12,
-    "ten_que": "Đăng Lục Đáo Ngạn",
-    "loai_xam": "Thượng Thượng",
-    "loi_tho": "Vượt biển sầu đau cập bến vàng\nHào quang soi chiếu bước thênh thang\nCông thành danh toại nhờ bền chí\nPhước đức gia đình mãi vẻ vang",
-    "y_nghia_tho": "Bạn đã vượt qua được giai đoạn khó khăn nhất và chuẩn bị gặt hái thành công. Đây là thời điểm vinh quang.",
+    "ten_que": "Nhẫn Nhục Ba La Mật",
+    "loai_xam": "Trung Bình",
+    "loi_tho": "Một câu nhẫn nhịn vạn sự yên\nChớ để sân si chuốc lụy phiền\nNước chảy đá mòn tâm vững chãi\nSau cơn giông bão nắng qua hiên",
+    "y_nghia_tho": "Cần phải nhẫn nại trong thời điểm này. Sự nóng giận sẽ hỏng việc lớn. Sau thử thách này sẽ ổn định.",
     "loi_giai": {
-      "cau_tai": "Đại thắng, tiền bạc dồi dào.",
-      "gia_trach": "Hưng vượng, có tin vui về học hành, chức tước.",
-      "benh_tat": "Hết bệnh, sức khỏe hồi phục hoàn toàn.",
-      "tinh_duyen": "Hạnh phúc viên mãn, đám cưới linh đình.",
-      "di_xa": "Đạt được mục đích, danh lợi song thu.",
-      "phap_luat": "Thắng kiện, công lý được thực thi.",
-      "ban_than": "Vận thế đang lên, làm gì cũng tốt.",
-      "mat_cua": "Tìm thấy nguyên vẹn."
+      "cau_tai": "Chưa có ngay, cần kiên trì chờ đợi thời điểm khác.",
+      "gia_trach": "Nên nhường nhịn lẫn nhau để giữ hòa khí ấm êm.",
+      "benh_tat": "Bệnh mãn tính cần kiên trì điều trị lâu dài.",
+      "tinh_duyen": "Cần sự bao dung, thấu hiểu mới giữ được tình cảm.",
+      "di_xa": "Có chút trở ngại dọc đường, cần bình tĩnh xử lý.",
+      "phap_luat": "Nên hòa giải, tránh đối đầu trực diện lúc này.",
+      "ban_than": "Đang rèn luyện đức tính kiên nhẫn.",
+      "mat_cua": "Khó tìm, đừng vì thế mà sinh bực bội tâm trí."
     }
   },
   {
     "so": 13,
-    "ten_que": "Bồ Đề Tâm Chủng",
-    "loai_xam": "Thượng Cát",
-    "loi_tho": "Hạt giống bồ đề đã nảy mầm\nVun trồng chăm sóc bởi từ tâm\nMai này bóng mát che nhân thế\nQuả ngọt thơm nồng ngát thiện lâm",
-    "y_nghia_tho": "Những việc thiện bạn làm bắt đầu có kết quả. Hãy tiếp tục nuôi dưỡng tâm lành để gặt hái thành quả lớn hơn trong tương lai.",
+    "ten_que": "Viên Mãn Bồ Đề",
+    "loai_xam": "Thượng Thượng",
+    "loi_tho": "Trăng tròn soi sáng dặm đường xa\nCông đức vun bồi rạng cửa nhà\nƯớc nguyện bấy lâu nay thành tựu\nHào quang hộ chiếu rạng sơn hà",
+    "y_nghia_tho": "Mọi việc đã đến hồi kết thúc tốt đẹp. Bạn nhận được thành quả xứng đáng sau thời gian dài nỗ lực.",
     "loi_giai": {
-      "cau_tai": "Bắt đầu có lợi nhuận.",
-      "gia_trach": "Yên ổn, con cái ngoan hiền.",
-      "benh_tat": "Bệnh nhẹ, nhanh khỏi nhờ phước đức.",
-      "tinh_duyen": "Chân thành sẽ có kết quả tốt.",
-      "di_xa": "Có quý nhân giúp đỡ âm thầm.",
-      "phap_luat": "Nên dùng tình thương để giải quyết.",
-      "ban_than": "Đang tích lũy được nhiều phước báo.",
-      "mat_cua": "Sẽ tìm lại được nhờ người quen."
+      "cau_tai": "Tài lộc mỹ mãn, tiền bạc dư dả dồi dào.",
+      "gia_trach": "Gia môn hiển đạt, rạng rỡ tiếng tăm.",
+      "benh_tat": "Sức khỏe hồi phục hoàn toàn, sống trường thọ.",
+      "tinh_duyen": "Hạnh phúc trọn vẹn, duyên tình viên mãn.",
+      "di_xa": "Thành công vang dội khi trở về, lợi lộc đủ đầy.",
+      "phap_luat": "Toàn thắng, công lý được thực thi công bằng.",
+      "ban_than": "Mọi mong ước đều được toại nguyện như ý.",
+      "mat_cua": "Tìm thấy được nguyên vẹn vật quý giá."
     }
   },
   {
     "so": 14,
-    "ten_que": "Vi Diệu Pháp Âm",
+    "ten_que": "Di Lặc Hỷ Thần",
     "loai_xam": "Thượng Cát",
-    "loi_tho": "Tiếng chuông tỉnh thức giữa đêm trường\nSoi sáng đường mê rạng mười phương\nNghe lời chánh pháp lòng thanh thản\nVạn sự hanh thông rạng cát tường",
-    "y_nghia_tho": "Bạn sẽ nhận được lời khuyên hoặc chỉ dẫn đúng đắn (như nghe pháp). Hãy lắng nghe ý kiến của bậc trưởng thượng hoặc người trí.",
+    "loi_tho": "Bụng lớn bao dung chuyện thế gian\nMiệng cười hỷ xả dứt nàn tai\nTâm vui thì phước về quanh lối\nHạnh phúc tràn trề rạng sớm mai",
+    "y_nghia_tho": "Hãy luôn giữ nụ cười và tinh thần lạc quan. Sự hỷ xả giúp bạn thu hút nhiều vận may bất ngờ.",
     "loi_giai": {
-      "cau_tai": "Tốt, có người chỉ đường dẫn lối.",
-      "gia_trach": "Vui vẻ, hòa khí sinh tài.",
-      "benh_tat": "Tìm được đúng thầy, đúng thuốc.",
-      "tinh_duyen": "Có người làm mai mối tốt đẹp.",
-      "di_xa": "Gặp được bạn tốt, học được điều hay.",
-      "phap_luat": "Được người uy tín đứng ra hòa giải.",
-      "ban_than": "Tâm trí sáng suốt, quyết định đúng đắn.",
-      "mat_cua": "Có tin tức về vật đã mất."
+      "cau_tai": "Tài lộc hanh thông, kinh doanh gặp nhiều khách quý.",
+      "gia_trach": "Gia đình luôn ngập tràn tiếng cười và niềm vui.",
+      "benh_tat": "Tinh thần phấn chấn giúp bệnh tật tiêu tan nhanh.",
+      "tinh_duyen": "Duyên tình vui vẻ, không có sầu bi lo lắng.",
+      "di_xa": "Đi xa gặp nhiều chuyện may mắn, vui vẻ.",
+      "phap_luat": "Giải quyết êm đẹp trong không khí hòa thuận.",
+      "ban_than": "Được mọi người yêu mến vì sự lạc quan.",
+      "mat_cua": "Sẽ tìm thấy khi tâm trạng bạn vui vẻ trở lại."
     }
   },
   {
     "so": 15,
     "ten_que": "Hồi Đầu Thị Ngạn",
     "loai_xam": "Trung Cát",
-    "loi_tho": "Quay đầu nhìn lại bến bờ xưa\nDứt bỏ sai lầm, dứt nắng mưa\nSửa mình hướng thiện trời che chở\nHạnh phúc bây giờ đã chớm thưa",
-    "y_nghia_tho": "Nếu đang làm việc gì sai trái hoặc phân vân, hãy dừng lại và sửa đổi. Sự hối lỗi và hướng thiện sẽ giúp bạn tránh được tai họa.",
+    "loi_tho": "Quay đầu nhìn lại bến bờ xưa\nDứt bỏ sai lầm dứt nắng mưa\nSửa mình hướng thiện trời che chở\nHạnh phúc bây giờ đã chớm thưa",
+    "y_nghia_tho": "Nếu đang làm việc gì sai trái hoặc phân vân, hãy dừng lại sửa đổi. Sự hối lỗi giúp chuyển họa thành phúc.",
     "loi_giai": {
-      "cau_tai": "Cần xem xét lại cách làm ăn, không nên tham.",
-      "gia_trach": "Cần sửa sang cửa nhà, quan tâm người thân.",
-      "benh_tat": "Cần sám hối và phóng sanh để giải nghiệp.",
-      "tinh_duyen": "Nên thành thật với nhau mới bền.",
-      "di_xa": "Nên quay về, chưa phải lúc đi.",
-      "phap_luat": "Nên tự thú hoặc nhận lỗi, sẽ được khoan hồng.",
-      "ban_than": "Cần tu tâm dưỡng tính nhiều hơn.",
-      "mat_cua": "Của mất do mình sơ suất, khó tìm."
+      "cau_tai": "Cần xem xét lại phương thức làm ăn, không nên tham.",
+      "gia_trach": "Cần sửa sang cửa nhà, quan tâm người thân nhiều hơn.",
+      "benh_tat": "Cần sám hối và phóng sanh để hóa giải nghiệp lực.",
+      "tinh_duyen": "Nên thành thật với nhau mới mong bền vững.",
+      "di_xa": "Nên quay về hoặc tạm hoãn, chưa phải lúc đi.",
+      "phap_luat": "Thành thật nhận lỗi sẽ được khoan hồng.",
+      "ban_than": "Cần thời gian tu tâm dưỡng tính nghiêm túc.",
+      "mat_cua": "Mất do sơ suất, khó tìm lại được hoàn toàn."
     }
   },
   {
     "so": 16,
-    "ten_que": "Thân Tâm An Lạc",
-    "loai_xam": "Thượng Cát",
-    "loi_tho": "Thân khỏe tâm an dạ chẳng phiền\nĐời người hạnh phúc tựa thần tiên\nÍt tham ít dục lòng thanh thản\nPhước báo tràn đầy, vạn sự yên",
-    "y_nghia_tho": "Sức khỏe và sự bình an là tài sản lớn nhất. Quẻ này cho thấy cuộc sống của bạn đang ở giai đoạn rất ổn định và hạnh phúc.",
+    "ten_que": "Tàm Quý Trang Nghiêm",
+    "loai_xam": "Trung Bình",
+    "loi_tho": "Biết hổ biết thẹn giữ mình trong\nChớ để tham sân nhiễm bụi hồng\nSửa lỗi làm lành tâm tịnh lạc\nTrăng rằm soi sáng khắp lòng sông",
+    "y_nghia_tho": "Lòng tự trọng và biết nhận lỗi là điều quý giá. Hãy khiêm tốn sửa mình để tránh tai họa trong tương lai.",
     "loi_giai": {
-      "cau_tai": "Ổn định, không lo thiếu thốn.",
-      "gia_trach": "Ấm cúng, tràn đầy tiếng cười.",
-      "benh_tat": "Sức khỏe rất tốt, ít ốm đau.",
-      "tinh_duyen": "Tình cảm mặn nồng, hiểu nhau sâu sắc.",
-      "di_xa": "Đi chơi xa rất vui vẻ và an toàn.",
-      "phap_luat": "Mọi việc êm đẹp, không có tranh chấp.",
-      "ban_than": "Sống thọ, hưởng phước lành.",
-      "mat_cua": "Không mất, chỉ là để quên đâu đó."
+      "cau_tai": "Chỉ hưởng tài lộc chân chính, không nên tham của lạ.",
+      "gia_trach": "Cần sự thành thật giữa các thành viên gia đình.",
+      "benh_tat": "Nên thay đổi thói quen xấu sẽ giúp bệnh mau khỏi.",
+      "tinh_duyen": "Cần thẳng thắn nhìn nhận khuyết điểm của mình.",
+      "di_xa": "Đi xa cần giữ mình, tránh các cám dỗ hư vinh.",
+      "phap_luat": "Nên nhận trách nhiệm, sự thật sẽ giúp bạn thoát nạn.",
+      "ban_than": "Đang trong quá trình rèn luyện nhân cách.",
+      "mat_cua": "Khó tìm, coi như bài học về sự cẩn thận sau này."
     }
   },
   {
     "so": 17,
-    "ten_que": "Quảng Kết Thiện Duyên",
-    "loai_xam": "Thượng Cát",
-    "loi_tho": "Gặp nhau là bởi chữ duyên lành\nGiúp người giúp vật, phước sinh nhanh\nĐi đâu cũng có người yêu mến\nSự nghiệp từ đây rạng rỡ thành",
-    "y_nghia_tho": "Khuyên bạn nên mở rộng các mối quan hệ xã hội bằng sự tử tế. Quý nhân của bạn chính là những người bạn đã giúp đỡ.",
+    "ten_que": "Hộ Pháp An Thân",
+    "loai_xam": "Thượng Thượng",
+    "loi_tho": "Lòng thiện có thần tiên chở che\nHọa tai tan biến chẳng cận kề\nVững tin chánh đạo đường ta bước\nVạn sự an lành thỏa ước thề",
+    "y_nghia_tho": "Bạn đang được bảo hộ bởi phước đức của chính mình. Cứ tự tin bước đi, mọi việc sẽ bình an vô sự.",
     "loi_giai": {
-      "cau_tai": "Khá, nhờ bạn bè đối tác giúp đỡ.",
-      "gia_trach": "Có khách quý đến thăm nhà.",
-      "benh_tat": "Gặp được bác sĩ tận tâm.",
-      "tinh_duyen": "Duyên đến qua sự giới thiệu của bạn bè.",
-      "di_xa": "Rất tốt, kết thêm được nhiều tri kỷ.",
-      "phap_luat": "Được mọi người ủng hộ, dễ thắng lợi.",
-      "ban_than": "Vận quý nhân rất mạnh.",
-      "mat_cua": "Sẽ được người khác nhặt được và trả lại."
+      "cau_tai": "Ổn định và tăng trưởng bền vững.",
+      "gia_trach": "Gia đình an toàn, tránh được trộm đạo hỏa hoạn.",
+      "benh_tat": "Tai qua nạn khỏi một cách thần kỳ.",
+      "tinh_duyen": "Gặp được người luôn che chở và bảo vệ mình.",
+      "di_xa": "Đi đường bình an, có quý nhân âm thầm phù trợ.",
+      "phap_luat": "Gặp được người có quyền thế giúp đỡ minh oan.",
+      "ban_than": "Hưởng phước ấm từ tổ tiên để lại.",
+      "mat_cua": "Sẽ tìm thấy ngay khi tưởng chừng đã mất hẳn."
     }
   },
   {
     "so": 18,
-    "ten_que": "Viên Mãn Công Đức",
-    "loai_xam": "Thượng Thượng",
-    "loi_tho": "Trăng tròn soi sáng dặm đường xa\nCông đức vun bồi rạng cửa nhà\nƯớc nguyện bấy lâu nay thành tựu\nVang lừng danh tiếng khắp gần xa",
-    "y_nghia_tho": "Mọi việc đã đến hồi viên mãn. Bạn sẽ nhận được thành quả xứng đáng với những gì đã cống hiến.",
+    "ten_que": "Quảng Kết Thiện Duyên",
+    "loai_xam": "Thượng Cát",
+    "loi_tho": "Gặp nhau là bởi chữ duyên lành\nGiúp người giúp vật phước sinh nhanh\nĐi đâu cũng có người yêu mến\nSự nghiệp từ đây rạng rỡ thành",
+    "y_nghia_tho": "Mở rộng mối quan hệ bằng lòng tử tế. Quý nhân chính là những người bạn đã từng giúp đỡ.",
     "loi_giai": {
-      "cau_tai": "Tiền tài mỹ mãn, giàu sang phú quý.",
-      "gia_trach": "Gia môn hiển đạt, rạng rỡ tổ tông.",
-      "benh_tat": "Khỏe mạnh, sống trường thọ.",
-      "tinh_duyen": "Hạnh phúc trọn vẹn, con cái đủ đầy.",
-      "di_xa": "Thành công vang dội khi trở về.",
-      "phap_luat": "Toàn thắng, tiếng thơm để lại.",
-      "ban_than": "Mọi mong ước đều được toại nguyện.",
-      "mat_cua": "Tìm thấy được vật quý."
+      "cau_tai": "Khá, nhờ bạn bè và đối tác cũ giúp đỡ chỉ điểm.",
+      "gia_trach": "Có khách quý đến thăm nhà mang theo tin tốt.",
+      "benh_tat": "Gặp được bác sĩ tận tâm và y thuật giỏi.",
+      "tinh_duyen": "Duyên đến qua sự giới thiệu của người quen.",
+      "di_xa": "Rất tốt, đi xa kết thêm được nhiều bạn tri kỷ.",
+      "phap_luat": "Được mọi người ủng hộ, dễ dàng thắng lợi hòa giải.",
+      "ban_than": "Vận quý nhân rất mạnh, uy tín tăng cao.",
+      "mat_cua": "Sẽ có người nhặt được và chủ động trả lại."
     }
   },
   {
     "so": 19,
-    "ten_que": "Bình Thường Thị Đạo",
-    "loai_xam": "Trung Bình",
-    "loi_tho": "Chớ tìm đâu xa tận cuối trời\nĐạo nằm trong mỗi bước chân rơi\nĂn cơm, gánh nước tâm tĩnh lặng\nẤy là hạnh phúc giữa đời trôi",
-    "y_nghia_tho": "Lời nhắc nhở hãy trân trọng những gì bình thường nhất. Đừng quá tham vọng mà quên đi niềm vui hiện tại.",
+    "ten_que": "Tri Túc Thường Lạc",
+    "loai_xam": "Trung Cát",
+    "loi_tho": "Biết đủ lòng luôn thấy nhẹ nhàng\nTham cầu chi lắm lụy thân mang\nCơm thiền trà đạo vui ngày tháng\nHạnh phúc quanh đây rạng ánh vàng",
+    "y_nghia_tho": "Hài lòng với những gì đang có là hạnh phúc lớn nhất. Đừng quá chạy theo vật chất mà quên đi an lạc.",
     "loi_giai": {
-      "cau_tai": "Bình thường, đủ ăn đủ mặc.",
-      "gia_trach": "Yên ổn, không có gì lo lắng.",
-      "benh_tat": "Duy trì sinh hoạt điều độ sẽ khỏe.",
-      "tinh_duyen": "Tình cảm bình dị nhưng bền vững.",
-      "di_xa": "Đi cũng được, ở cũng không sao.",
-      "phap_luat": "Nên hòa giải nhanh chóng cho yên chuyện.",
-      "ban_than": "Cần tìm niềm vui trong những điều nhỏ bé.",
-      "mat_cua": "Của nhỏ không đáng ngại, bỏ qua cho nhẹ lòng."
+      "cau_tai": "Vừa đủ dùng, không nên quá mạo hiểm tham lam.",
+      "gia_trach": "Yên vui, gia đạo hòa thuận nhờ sự khiêm nhường.",
+      "benh_tat": "Tâm an thì thân khỏe, bệnh nhẹ nhanh chóng khỏi.",
+      "tinh_duyen": "Nên trân trọng người hiện tại, đừng so sánh.",
+      "di_xa": "Bình an, không nên đi xa cầu lợi quá mức.",
+      "phap_luat": "Nên chấp nhận sự dàn xếp công bằng, không nên kiện cáo.",
+      "ban_than": "Tâm hồn thong dong, ít phiền muộn lo âu.",
+      "mat_cua": "Của cải vật ngoài thân, đừng quá đau buồn tiếc nuối."
     }
   },
   {
     "so": 20,
-    "ten_que": "Nhẫn Nhục Ba La Mật",
-    "loai_xam": "Trung Cát",
-    "loi_tho": "Một câu nhẫn nhịn, vạn sự yên\nChớ để sân si chuốc lụy phiền\nNước chảy đá mòn, tâm vững chãi\nSau cơn giông bão, nắng qua hiên",
-    "y_nghia_tho": "Cần phải nhẫn nại trong thời điểm này. Sự nóng giận sẽ làm hỏng việc lớn. Sau khi vượt qua thử thách này, bạn sẽ thành công.",
+    "ten_que": "Ngũ Uẩn Giai Không",
+    "loai_xam": "Trung Bình",
+    "loi_tho": "Sắc sắc không không mộng hão huyền\nĐừng vì hư ảo lụy trần duyên\nTâm không vướng bận đời thanh thản\nTrăng sáng soi dòng nước tĩnh yên",
+    "y_nghia_tho": "Vạn vật đều không có thực thể vĩnh hằng. Đừng quá chấp vào cái tôi hay vật chất để bớt khổ đau.",
     "loi_giai": {
-      "cau_tai": "Chưa có ngay, cần kiên trì chờ đợi.",
-      "gia_trach": "Tránh tranh cãi, cần nhường nhịn lẫn nhau.",
-      "benh_tat": "Cần kiên trì điều trị lâu dài.",
-      "tinh_duyen": "Cần sự bao dung mới giữ được tình yêu.",
-      "di_xa": "Có chút trở ngại, cần bình tĩnh xử lý.",
-      "phap_luat": "Nên nhẫn nhịn, không nên đối đầu trực diện.",
-      "ban_than": "Đang rèn luyện đức tính kiên nhẫn.",
-      "mat_cua": "Khó tìm, đừng vì thế mà bực bội."
+      "cau_tai": "Lúc có lúc không, không nên cưỡng cầu.",
+      "gia_trach": "Cần chú trọng đời sống tinh thần hơn là vật chất.",
+      "benh_tat": "Bệnh do lo nghĩ nhiều, cần buông xả tâm trí.",
+      "tinh_duyen": "Đừng quá kỳ vọng vào người khác, hãy để tùy duyên.",
+      "di_xa": "Không có lợi lắm khi đi xa cầu danh lợi lúc này.",
+      "phap_luat": "Sự thật sẽ tự phơi bày, không cần tranh cãi nhiều.",
+      "ban_than": "Cần thời gian yên tĩnh để nhìn lại bản thân.",
+      "mat_cua": "Mất rồi khó tìm, coi như bài học về sự vô thường."
+    }
+  },
+  {
+    "so": 21,
+    "ten_que": "Phóng Sanh Tích Đức",
+    "loai_xam": "Thượng Thượng",
+    "loi_tho": "Cứu vật vật trả ơn sâu nặng\nLòng nhân lan tỏa khắp mười phương\nPhước báo dài lâu thân mạnh khỏe\nGia đình êm ấm ngát mùi hương",
+    "y_nghia_tho": "Khuyên nên làm việc thiện, cứu giúp chúng sinh. Lòng từ bi sẽ mang lại sức khỏe và sự bảo hộ vô hình vô cùng lớn lao.",
+    "loi_giai": {
+      "cau_tai": "Tài lộc dồi dào đến từ những việc thiện nguyện.",
+      "gia_trach": "Tai qua nạn khỏi, gia đạo an khang thịnh vượng.",
+      "benh_tat": "Bệnh nặng hóa nhẹ, gặp thầy giỏi thuốc quý.",
+      "tinh_duyen": "Gặp được người có lòng nhân hậu, rất bền vững.",
+      "di_xa": "May mắn, đi đường luôn có quý nhân giúp đỡ.",
+      "phap_luat": "Được khoan hồng hoặc có người uy tín giúp đỡ.",
+      "ban_than": "Tâm hồn nhẹ nhàng, phước thọ tăng cao.",
+      "mat_cua": "Mất rồi lại có vật khác bù đắp tốt hơn nhiều."
+    }
+  },
+  {
+    "so": 22,
+    "ten_que": "Hiếu Thân Tôn Đạo",
+    "loai_xam": "Thượng Cát",
+    "loi_tho": "Công cha nghĩa mẹ nặng ngàn cân\nHiếu đạo vẹn tròn phước tới thân\nTrời Phật chứng tri lòng thảo hiếu\nLàm gì cũng thuận chẳng phân vân",
+    "y_nghia_tho": "Gốc của con người là lòng hiếu thảo. Khi bạn đối xử tốt với cha mẹ, mọi việc trong đời sẽ tự nhiên hanh thông và được trời giúp.",
+    "loi_giai": {
+      "cau_tai": "Thuận lợi nhờ phúc đức cha mẹ để lại.",
+      "gia_trach": "Yên ổn, có tin vui từ người thân ở xa.",
+      "benh_tat": "Sức khỏe tốt, người già trong nhà bình an.",
+      "tinh_duyen": "Được gia đình hai bên ủng hộ, vun vén hết lòng.",
+      "di_xa": "Nên về thăm quê hương hoặc người thân.",
+      "phap_luat": "Gặp quý nhân là người lớn tuổi giúp đỡ tận tình.",
+      "ban_than": "Sống đúng đạo lý, lòng không hổ thẹn với ai.",
+      "mat_cua": "Người trong nhà cất giữ giúp, không mất đâu."
+    }
+  },
+  {
+    "so": 23,
+    "ten_que": "Chân Lý Vô Thường",
+    "loai_xam": "Trung Cát",
+    "loi_tho": "Đời người như giấc mộng đêm qua\nSắc thắm rồi cũng nhạt màu hoa\nĐừng quá tham cầu điều hư ảo\nGiữ lòng chân thật vượt phong ba",
+    "y_nghia_tho": "Nhắc nhở về sự thay đổi của cuộc đời. Đừng quá chấp nhất vào thắng thua, được mất lúc này. Hãy giữ tâm thế bình thản.",
+    "loi_giai": {
+      "cau_tai": "Lúc có lúc không, đừng quá lo lắng sầu ưu.",
+      "gia_trach": "Cần quan tâm đến sức khỏe người già trong nhà.",
+      "benh_tat": "Cần cẩn thận, không nên chủ quan với dấu hiệu nhẹ.",
+      "tinh_duyen": "Hợp rồi tan là lẽ thường, hãy để tùy duyên.",
+      "di_xa": "Nên cân nhắc kỹ, chưa nên đi xa vào lúc này.",
+      "phap_luat": "Khó thắng ngay, cần kiên nhẫn chờ đợi thêm.",
+      "ban_than": "Nên dành thời gian chiêm nghiệm lại bản thân.",
+      "mat_cua": "Khó tìm lại được ngay, đừng quá tiếc nuối sầu não."
+    }
+  },
+  {
+    "so": 24,
+    "ten_que": "Bất Kham Khổ Nạn",
+    "loai_xam": "Trung Bình",
+    "loi_tho": "Đường đời dốc thẳm bước chân nan\nNghiệp lực vây quanh dạ bất an\nThành tâm sám hối cầu gia hộ\nTrăng tàn lại mọc ánh dương sang",
+    "y_nghia_tho": "Đang gặp vận hạn hoặc khó khăn chồng chất do nghiệp cũ. Cần sám hối và kiên nhẫn vượt qua, ánh sáng sẽ trở lại.",
+    "loi_giai": {
+      "cau_tai": "Bế tắc, không nên mạo hiểm tiền bạc lúc này.",
+      "gia_trach": "Gia đạo có chút lục đục, cần nhẫn nhịn tối đa.",
+      "benh_tat": "Bệnh tình phức tạp, cần kiên trì điều trị đúng hướng.",
+      "tinh_duyen": "Nhiều trắc trở, dễ nảy sinh hiểu lầm to lớn.",
+      "di_xa": "Không nên đi, dễ gặp chuyện không như ý dọc đường.",
+      "phap_luat": "Bất lợi, nên tìm cách hòa giải để giảm tổn thất.",
+      "ban_than": "Cần tĩnh tâm, hạn chế làm việc lớn.",
+      "mat_cua": "Mất rồi, khó có cơ hội tìm lại được."
+    }
+  },
+  {
+    "so": 25,
+    "ten_que": "Tích Thiện Phùng Xuân",
+    "loai_xam": "Thượng Thượng",
+    "loi_tho": "Nhà thiện ơn trời lộc chẳng vơi\nNhư hoa gặp tiết xuân tươi cười\nLàm lành lánh dữ bao năm tháng\nNay hưởng vinh hoa rạng cuộc đời",
+    "y_nghia_tho": "Giống như cây khô gặp mùa xuân đâm chồi nảy lộc. Những việc thiện bạn làm bấy lâu nay đã đến lúc hưởng quả ngọt.",
+    "loi_giai": {
+      "cau_tai": "Đại cát đại lợi, tiền bạc tự tìm đến cửa.",
+      "gia_trach": "Hưng vượng, có tin vui về thêm người thêm của.",
+      "benh_tat": "Tai qua nạn khỏi, sức khỏe bình phục thần kỳ.",
+      "tinh_duyen": "Duyên nồng ý đượm, sớm thành gia thất viên mãn.",
+      "di_xa": "Rất thuận lợi, gặp được nhiều cơ hội quý báu.",
+      "phap_luat": "Thắng lợi hoàn toàn, được mọi người ủng hộ.",
+      "ban_than": "Vận thế đang ở đỉnh cao, làm gì cũng thành.",
+      "mat_cua": "Tìm được ngay trong nhà hoặc nơi quen thuộc gần đây."
+    }
+  },
+  {
+    "so": 26,
+    "ten_que": "Tịnh Độ Tại Tâm",
+    "loai_xam": "Thượng Cát",
+    "loi_tho": "Chớ tìm cực lạc tận phương xa\nPhật ở trong tâm tại cửa nhà\nLòng lặng sóng dừng soi bóng nguyệt\nBình an tự tại giữa ta bà",
+    "y_nghia_tho": "Hạnh phúc nằm ngay trong tâm hồn bạn. Chỉ cần giữ tâm thanh tịnh, bạn sẽ thấy cuộc đời đẹp đẽ như cõi tiên.",
+    "loi_giai": {
+      "cau_tai": "Vừa đủ dùng, tâm không tham thì tài tự đến.",
+      "gia_trach": "An vui, không khí gia đình ấm cúng nhẹ nhàng.",
+      "benh_tat": "Bệnh nhẹ do lo âu, buông xả tâm trí là khỏi.",
+      "tinh_duyen": "Tình cảm chân thành, không cần phô trương bên ngoài.",
+      "di_xa": "Đi đâu cũng bình an vì tâm luôn vững vàng.",
+      "phap_luat": "Nên hòa giải, lấy sự bình yên làm trọng yếu.",
+      "ban_than": "Được mọi người quý mến vì đức độ thanh cao.",
+      "mat_cua": "Của mất sẽ tìm thấy ở nơi thanh tịnh, sạch sẽ."
+    }
+  },
+  {
+    "so": 27,
+    "ten_que": "Vạn Pháp Quy Tâm",
+    "loai_xam": "Trung Cát",
+    "loi_tho": "Tâm là chủ tể mọi hành vi\nHọa phước đều do ý chuyển di\nGiữ ý trong lành lời hòa nhã\nĐường đời chẳng ngại bước chân đi",
+    "y_nghia_tho": "Mọi việc thành hay bại đều do tâm bạn quyết định. Nếu tâm định tĩnh, bạn sẽ tìm thấy lối thoát trong mọi hoàn cảnh.",
+    "loi_giai": {
+      "cau_tai": "Trung bình, cần suy tính kỹ trước khi hành động.",
+      "gia_trach": "Cần chú ý giáo dục con cái, giữ không khí vui vẻ.",
+      "benh_tat": "Do tâm lý căng thẳng, cần nghỉ ngơi thiền định.",
+      "tinh_duyen": "Cần sự thấu hiểu từ sâu thẳm bên trong tâm hồn.",
+      "di_xa": "Cân nhắc kỹ mục đích chuyến đi trước khi khởi hành.",
+      "phap_luat": "Chưa ngã ngũ ngay, cần giữ thái độ điềm tĩnh.",
+      "ban_than": "Cần rèn luyện khả năng tập trung vào mục tiêu.",
+      "mat_cua": "Do sơ xuất của bản thân, khó tìm lại được ngay."
+    }
+  },
+  {
+    "so": 28,
+    "ten_que": "Trần Duyên Vị Tận",
+    "loai_xam": "Trung Bình",
+    "loi_tho": "Nợ trần chưa dứt lụy phiền vây\nSương mù che lối gió heo may\nTu thân tích đức chờ hoa nở\nQua ngày giông bão nắng tràn tay",
+    "y_nghia_tho": "Vẫn còn nhiều vướng mắc chưa giải quyết xong. Cần nhẫn nại xử lý từng việc một, không nên nóng vội.",
+    "loi_giai": {
+      "cau_tai": "Còn khó khăn, tài lộc chưa tụ lại được.",
+      "gia_trach": "Cần đề phòng tranh chấp nhỏ trong họ hàng.",
+      "benh_tat": "Bệnh nhẹ nhưng dây dưa, cần uống thuốc điều độ.",
+      "tinh_duyen": "Chưa đi đến đâu, còn nhiều ngăn trở từ bên ngoài.",
+      "di_xa": "Không thuận lợi lắm, dễ gặp rắc rối giấy tờ.",
+      "phap_luat": "Phức tạp, cần chuẩn bị chứng cứ kỹ lưỡng.",
+      "ban_than": "Cảm thấy bế tắc, nên tìm bạn tốt chia sẻ.",
+      "mat_cua": "Mất đồ do người quen lấy, khó đòi lại."
+    }
+  },
+  {
+    "so": 29,
+    "ten_que": "Thân Cận Thiện Hữu",
+    "loai_xam": "Thượng Thượng",
+    "loi_tho": "Gần sáng thì trong gần tối đen\nBạn hiền dắt dẫn bước thăng sen\nThiện tri thức chỉ đường soi lối\nCông thành danh toại rạng đèn khen",
+    "y_nghia_tho": "Khuyên nên lắng nghe lời khuyên từ người tốt, người có trí tuệ. Bạn bè tốt sẽ giúp bạn đạt thành công lớn.",
+    "loi_giai": {
+      "cau_tai": "Tốt, nhờ sự hợp tác với người tài đức vẹn toàn.",
+      "gia_trach": "Khách quý mang tin vui đại hỷ đến cho cả nhà.",
+      "benh_tat": "Gặp thầy thuốc có tâm và có tầm, bệnh mau khỏi.",
+      "tinh_duyen": "Gặp được ý trung nhân qua sự giới thiệu uy tín.",
+      "di_xa": "Nên đi, gặp được người giúp đỡ sự nghiệp rực rỡ.",
+      "phap_luat": "Được người minh triết đứng ra bảo vệ và làm chứng.",
+      "ban_than": "Mở rộng được nhiều mối quan hệ chất lượng cao.",
+      "mat_cua": "Sẽ tìm lại được nhờ sự chỉ dẫn của người tốt."
+    }
+  },
+  {
+    "so": 30,
+    "ten_que": "Khổ Tận Cam Lai",
+    "loai_xam": "Thượng Cát",
+    "loi_tho": "Qua cơn bĩ cực tới hồi thái lai\nNắng sớm bừng lên sau đêm dài\nKiên gan bền chí chờ thời vận\nQuả ngọt trên tay rạng sớm mai",
+    "y_nghia_tho": "Khó khăn đã ở phía sau, thời điểm tốt đẹp đang bắt đầu. Đây là lúc gặt hái sau những ngày vất vả.",
+    "loi_giai": {
+      "cau_tai": "Bắt đầu khởi sắc, tiền bạc dần ổn định trở lại.",
+      "gia_trach": "Mọi mâu thuẫn được hóa giải, êm ấm như xưa.",
+      "benh_tat": "Bệnh tình thuyên giảm mạnh, sức khỏe hồi phục.",
+      "tinh_duyen": "Sau những hiểu lầm lại càng thương nhau sâu đậm.",
+      "di_xa": "Thời gian đầu khó khăn nhưng về sau rất tốt đẹp.",
+      "phap_luat": "Cuối cùng lẽ phải và sự thật sẽ chiến thắng.",
+      "ban_than": "Trưởng thành và vững vàng hơn sau thử thách.",
+      "mat_cua": "Mất từ lâu nay bất ngờ tìm thấy lại được."
+    }
+  },
+  {
+    "so": 31,
+    "ten_que": "Tùy Hỷ Công Đức",
+    "loai_xam": "Trung Cát",
+    "loi_tho": "Thấy người thành tựu chớ phân bì\nMở lòng vui vẻ bớt sân si\nTâm rộng thì đời thêm phước lộc\nMay mắn tự nhiên đến tức thì",
+    "y_nghia_tho": "Khuyên không nên đố kỵ. Khi bạn vui với thành công của người khác, bạn đang tự tạo phước lành cho mình.",
+    "loi_giai": {
+      "cau_tai": "Khá, nếu biết hợp tác vui vẻ và công bằng.",
+      "gia_trach": "Hòa thuận, gia đình nên tránh so đo thiệt hơn.",
+      "benh_tat": "Bệnh do tâm lý đố kỵ, mở lòng ra sẽ thấy khỏe.",
+      "tinh_duyen": "Đừng quá kén chọn hoặc so sánh với người khác.",
+      "di_xa": "Đi xa gặp bạn tốt, hãy học hỏi kinh nghiệm từ họ.",
+      "phap_luat": "Nên nhường nhịn một bước sẽ nhận phần thắng lớn.",
+      "ban_than": "Cần rèn luyện tâm hỷ xả, bao dung hơn.",
+      "mat_cua": "Của đi thay người, giữ tâm an vui là chính."
+    }
+  },
+  {
+    "so": 32,
+    "ten_que": "Bình Thường Thị Đạo",
+    "loai_xam": "Trung Bình",
+    "loi_tho": "Chớ tìm đâu xa tận cuối trời\nĐạo nằm trong mỗi bước chân rơi\nĂn cơm gánh nước tâm tĩnh lặng\nẤy là hạnh phúc giữa đời trôi",
+    "y_nghia_tho": "Trân trọng những điều bình thường nhất. Đừng quá tham vọng xa vời mà quên đi niềm vui hiện tại.",
+    "loi_giai": {
+      "cau_tai": "Bình thường, chỉ đủ ăn đủ mặc, không dư dả nhiều.",
+      "gia_trach": "Yên ổn, không có gì đáng lo lắng xảy ra.",
+      "benh_tat": "Duy trì sinh hoạt điều độ sẽ tự nhiên khỏe mạnh.",
+      "tinh_duyen": "Tình cảm bình dị nhưng bền vững lâu dài.",
+      "di_xa": "Đi cũng được mà ở nhà cũng không sao.",
+      "phap_luat": "Nên hòa giải nhanh chóng cho yên chuyện đời.",
+      "ban_than": "Cần tìm niềm vui trong những điều nhỏ bé hàng ngày.",
+      "mat_cua": "Của nhỏ không đáng ngại, bỏ qua cho nhẹ lòng."
+    }
+  },
+  {
+    "so": 33,
+    "ten_que": "Kim Cương Bất Hoại",
+    "loai_xam": "Thượng Thượng",
+    "loi_tho": "Lòng vững như đồng chí tựa gang\nChẳng ngại phong ba chẳng ngại nàn\nKiên trì bền bỉ tâm không chuyển\nSau cùng gặt hái đóa hoa vàng",
+    "y_nghia_tho": "Giữ vững ý chí và niềm tin sắt đá. Nếu bạn không bỏ cuộc trước sóng gió, kết quả sẽ vô cùng rực rỡ.",
+    "loi_giai": {
+      "cau_tai": "Cần kiên trì theo đuổi mới có lộc lớn về sau.",
+      "gia_trach": "Vững vàng trước những lời dèm pha của hàng xóm.",
+      "benh_tat": "Cần nghị lực thép để vượt qua bạo bệnh.",
+      "tinh_duyen": "Thử thách lòng kiên nhẫn và chung thủy của đôi bên.",
+      "di_xa": "Dù gian nan ban đầu nhưng kết quả đạt được xứng đáng.",
+      "phap_luat": "Cần theo đuổi đến cùng, sự thật sẽ chiến thắng.",
+      "ban_than": "Ý chí mạnh mẽ sẽ giúp bạn đứng đầu sự nghiệp.",
+      "mat_cua": "Khó tìm, cần bỏ nhiều công sức mới thấy lại được."
+    }
+  },
+  {
+    "so": 34,
+    "ten_que": "Hạnh Nguyện Phổ Hiền",
+    "loai_xam": "Thượng Cát",
+    "loi_tho": "Nói đi đôi với việc làm ngay\nCông đức vun bồi mỗi một ngày\nLợi lạc quần sanh lòng chẳng quản\nPhước báo về sau tựa gió mây",
+    "y_nghia_tho": "Khuyên bạn nên bắt tay vào hành động thực tế. Lời hứa cần đi đôi với việc làm để tạo phước đức.",
+    "loi_giai": {
+      "cau_tai": "Hành động quyết đoán sẽ mang lại tài lộc dồi dào.",
+      "gia_trach": "Mọi người cùng nhau lao động, gia đình hưng thịnh.",
+      "benh_tat": "Siêng năng rèn luyện thân thể sẽ khỏe mạnh.",
+      "tinh_duyen": "Dùng hành động cụ thể để chứng minh tình cảm.",
+      "di_xa": "Rất tốt, nên đi để thực hiện hoài bão lớn.",
+      "phap_luat": "Làm việc đúng quy trình pháp luật sẽ thắng lợi.",
+      "ban_than": "Đang ở giai đoạn giàu năng lượng hành động nhất.",
+      "mat_cua": "Tìm thấy ở hướng Tây hoặc hướng Bắc gần đó."
+    }
+  },
+  {
+    "so": 35,
+    "ten_que": "Văn Tư Tu Học",
+    "loai_xam": "Trung Cát",
+    "loi_tho": "Học rộng nghe nhiều trí huệ khai\nSuy ngẫm thấu đáo việc trong ngoài\nThực hành chánh pháp đời yên ổn\nRạng rỡ tương lai sáng dặm dài",
+    "y_nghia_tho": "Cần học hỏi thêm kiến thức và suy nghĩ kỹ trước khi làm. Tốt cho việc nghiên cứu và học hành.",
+    "loi_giai": {
+      "cau_tai": "Tài lộc đến từ kiến thức và sự sáng tạo.",
+      "gia_trach": "Gia đình hiếu học, có người thăng tiến trong học thuật.",
+      "benh_tat": "Hiểu rõ nguyên nhân bệnh sẽ điều trị dứt điểm.",
+      "tinh_duyen": "Tìm được người bạn đời thông minh, sâu sắc.",
+      "di_xa": "Rất tốt cho việc đi học tập hoặc đào tạo ngắn ngày.",
+      "phap_luat": "Dùng lý lẽ thuyết phục và am hiểu luật sẽ thành công.",
+      "ban_than": "Trí tuệ đang phát triển vượt bậc, đáng khen.",
+      "mat_cua": "Mất do để quên, tĩnh tâm suy nghĩ lại sẽ tìm ra."
+    }
+  },
+  {
+    "so": 36,
+    "ten_que": "Giải Thoát Tri Kiến",
+    "loai_xam": "Trung Bình",
+    "loi_tho": "Nhìn thấu cuộc đời bớt lo âu\nDứt bỏ ưu phiền dứt khổ đau\nTrí huệ soi đường ra nẻo tối\nHạnh phúc bây giờ hiện sắc màu",
+    "y_nghia_tho": "Khi hiểu rõ bản chất sự việc, bạn sẽ không còn sợ hãi. Sự sáng suốt giúp bạn gỡ bỏ bế tắc.",
+    "loi_giai": {
+      "cau_tai": "Có cách giải quyết tài chính mới, thoát khỏi nợ nần.",
+      "gia_trach": "Hóa giải được những hiểu lầm cũ trong gia đình.",
+      "benh_tat": "Tìm được đúng phương pháp điều trị tâm lý.",
+      "tinh_duyen": "Thoát khỏi mối quan hệ độc hại để gặp duyên mới.",
+      "di_xa": "Đi xa để mở lòng, tìm thấy sự tự do thực sự.",
+      "phap_luat": "Vấn đề pháp lý mập mờ dần được sáng tỏ.",
+      "ban_than": "Tâm trí tự do, không còn vướng bận việc đời.",
+      "mat_cua": "Sẽ tìm lại được một cách tình cờ không ngờ tới."
+    }
+  },
+  {
+    "so": 37,
+    "ten_que": "Ma Ha Bát Nhã",
+    "loai_xam": "Thượng Thượng",
+    "loi_tho": "Trí huệ bao la tựa biển trời\nSoi đường mê tối khắp muôn nơi\nViệc đời thấu triệt lòng thanh thản\nVạn sự an lành phước đời đời",
+    "y_nghia_tho": "Trí tuệ sâu sắc giúp giải quyết mọi việc sáng suốt. Báo hiệu thành công nhờ sự thông minh và tầm nhìn.",
+    "loi_giai": {
+      "cau_tai": "Lợi nhuận cao nhờ tính toán giỏi và nhạy bén.",
+      "gia_trach": "Gia đình yên ấm nhờ sự thấu hiểu lẫn nhau.",
+      "benh_tat": "Hiểu đúng bệnh, gặp đúng thầy đúng thuốc.",
+      "tinh_duyen": "Tìm được người thấu hiểu tâm hồn sâu sắc.",
+      "di_xa": "Nên đi để học hỏi thêm nhiều kiến thức mới.",
+      "phap_luat": "Dùng lý lẽ sắc bén thuyết phục sẽ giành phần thắng.",
+      "ban_than": "Trí tuệ minh mẫn, đưa ra quyết định rất đúng đắn.",
+      "mat_cua": "Dùng suy luận logic sẽ tìm ra chỗ để quên đồ."
+    }
+  },
+  {
+    "so": 38,
+    "ten_que": "Pháp Luân Thường Chuyển",
+    "loai_xam": "Thượng Cát",
+    "loi_tho": "Bánh xe chánh pháp chuyển không ngừng\nPhước báo từ đây sướng rỡ mừng\nViệc cũ qua rồi thời vận tới\nVang lừng danh tiếng hỷ tưng bừng",
+    "y_nghia_tho": "Vận thế đang xoay chuyển mạnh mẽ theo hướng tốt. Những dự định ấp ủ nay đã có cơ hội thực hiện.",
+    "loi_giai": {
+      "cau_tai": "Tiền bạc hanh thông, đầu tư sinh lời lớn.",
+      "gia_trach": "Hưng thịnh, có tin vui về thăng tiến chức vụ.",
+      "benh_tat": "Hết bệnh hoàn toàn, tinh thần sảng khoái yêu đời.",
+      "tinh_duyen": "Hạnh phúc ngập tràn, duyên lành tự đưa lối tới.",
+      "di_xa": "Rất thuận lợi, đi đến đâu thành công rực rỡ đến đó.",
+      "phap_luat": "Thành công vang dội, đạt được mục đích đề ra.",
+      "ban_than": "Vận thế cực thịnh, hãy tranh thủ làm việc thiện.",
+      "mat_cua": "Tìm thấy nguyên vẹn vật đã mất từ lâu."
+    }
+  },
+  {
+    "so": 39,
+    "ten_que": "Vô Ngã Vị Tha",
+    "loai_xam": "Trung Cát",
+    "loi_tho": "Sống vì mọi người phước chẳng vơi\nLòng không ích kỷ rạng phương trời\nCho đi là còn mãi mãi đó\nVinh hoa phú quý tựa dòng khơi",
+    "y_nghia_tho": "Càng sống vị tha bạn càng nhận được nhiều sự ủng hộ. Thành công đến từ lòng tốt và uy tín cá nhân.",
+    "loi_giai": {
+      "cau_tai": "Tài lộc khá, nhờ phước báo giúp người mà có.",
+      "gia_trach": "Gia đình làm thiện, tiếng thơm vang xa muôn nơi.",
+      "benh_tat": "Sức khỏe dồi dào, tâm hồn luôn trẻ trung yêu đời.",
+      "tinh_duyen": "Tình yêu bao dung, sâu đậm và rất bền bỉ.",
+      "di_xa": "Rất tốt, đi đến đâu cũng được mọi người chào đón.",
+      "phap_luat": "Được nhiều người bênh vực, chiến thắng dễ dàng.",
+      "ban_than": "Trở thành tấm gương sáng cho mọi người noi theo.",
+      "mat_cua": "Sẽ được người khác nhặt được và chủ động trả lại."
+    }
+  },
+  {
+    "so": 40,
+    "ten_que": "Sát Na Tỉnh Thức",
+    "loai_xam": "Trung Bình",
+    "loi_tho": "Giật mình tỉnh giấc mộng phù hoa\nNhìn lại cuộc đời bóng xế tà\nSửa mình làm thiện ngay từ lúc\nBến bờ hạnh phúc chẳng còn xa",
+    "y_nghia_tho": "Nhắc nhở hãy ngừng theo đuổi những giá trị ảo huyền. Hãy quay về tu dưỡng tâm tính ngay lập tức.",
+    "loi_giai": {
+      "cau_tai": "Bình thường, không nên quá tham lam danh lợi.",
+      "gia_trach": "Cần sửa sang nề nếp gia đình cho đúng đạo đạo.",
+      "benh_tat": "Cần chú ý ăn uống và sinh hoạt điều độ hơn.",
+      "tinh_duyen": "Nên thực tế hơn trong tình cảm, đừng mơ mộng.",
+      "di_xa": "Cẩn thận các rắc rối nhỏ phát sinh khi đi xa.",
+      "phap_luat": "Nên nhận lỗi và sửa đổi, sẽ được tha thứ.",
+      "ban_than": "Đang có sự chuyển biến về tư duy tích cực.",
+      "mat_cua": "Của mất để nhắc nhở sự cẩn thận, khó tìm lại."
     }
   }
 ]
