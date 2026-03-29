@@ -1,282 +1,142 @@
 [
   {
-    "so": 1,
-    "baiKe": "Tâm bình thế giới tự nhiên bình,\nVạn sự tùy duyen chớ cưỡng cầu.\nNhân lành đã gieo từ muôn kiếp,\nQuả ngọt hoa thơm nở đúng kỳ.\nSen báu trong bùn không nhiễm uế,\nTrí tuệ bừng soi nẻo vô minh.",
-    "tongQuan": "Quẻ này là đại cát, nhưng không phải cái cát tường của danh lợi hão huyền, mà là sự viên mãn của nội tâm. Mọi việc bạn đang dự tính sẽ hanh thông nếu mục đích của bạn mang lại lợi lạc cho số đông. Đây là thời điểm 'thiên thời, địa lợi, nhân hòa' vì tâm bạn đang dần định tĩnh.",
-    "nhanQua": "Sự thuận lợi hôm nay không phải ngẫu nhiên mà có. Đó là kết tinh của nhiều đời nhiều kiếp bạn đã sống thiện lương, biết bao dung và giúp đỡ người yếu thế. Nghiệp cũ đã vơi, phước mới đang đầy, dòng chảy nhân quả đang đưa bạn đến bến bờ an vui.",
-    "loiKhuyen": "Đừng vì thấy vận may mà nảy sinh lòng kiêu mạn. Hãy giữ tâm khiêm hạ như dòng nước chảy chỗ trũng. Nên thực hành hạnh bố thí (cho đi) nhiều hơn để nuôi dưỡng phước báu bền vững. Buổi sáng nên dành 10 phút ngồi tĩnh tâm để giữ vững nguồn năng lượng an lành này."
+    "so": 41,
+    "baiKe": "Vạn pháp duy tâm tạo,\nCảnh đời tựa chiêm bao.\nLòng an thì cảnh tịnh,\nPhước báu tự dâng cao.\nĐừng chạy theo ảo ảnh,\nHãy giữ dạ thanh tao.",
+    "tongQuan": "Quẻ này nhắc nhở rằng mọi khổ đau hay hạnh phúc bạn đang trải nghiệm đều xuất phát từ cách bạn nhìn nhận vấn đề. Nếu bạn thấy bế tắc, đó là do tâm bạn đang bị vướng bận. Khi tâm buông xả, mọi sự tự nhiên hanh thông.",
+    "nhanQua": "Bạn đang gặt hái kết quả của những suy nghĩ trong quá khứ. Tâm thiện tạo cảnh lành, tâm ác tạo cảnh khổ. Việc thay đổi vận mệnh bắt đầu ngay từ việc thay đổi ý nghĩ của bạn lúc này.",
+    "loiKhuyen": "Hãy thực hành quán chiếu nội tâm. Đừng vội đổ lỗi cho ngoại cảnh. Dành thời gian ngồi tĩnh lặng, quan sát hơi thở để tâm bình lặng lại, giải pháp cho mọi vấn đề sẽ tự khắc xuất hiện."
   },
   {
-    "so": 2,
-    "baiKe": "Mây tan trăng sáng hiện giữa trời,\nKhổ đau cùng tận ấy vui tươi.\nVô thường biến chuyển xoay vần mãi,\nChấp chặt làm chi chỉ khổ người.\nBuông tay rũ sạch bao phiền não,\nTự tại dong chơi khắp mọi nơi.",
-    "tongQuan": "Bạn đang ở giai đoạn cuối của một chu kỳ khó khăn. Hình ảnh 'mây tan trăng hiện' cho thấy sự thật sắp được phơi bày, những hiểu lầm sẽ được hóa giải. Vận trình đang chuyển từ tối sang sáng, từ bế tắc sang thông suốt. Đừng bỏ cuộc khi ánh bình minh đã sát bên cạnh.",
-    "nhanQua": "Những thử thách vừa qua chính là quá trình 'trả nợ' nghiệp lực một cách nhanh chóng. Thay vì oán trách, hãy cảm ơn nghịch cảnh đã giúp bạn nhận ra những người bạn thật sự và hiểu thấu sự mong manh của cuộc đời. Khi nợ cũ đã trả xong, đường đời sẽ nhẹ tênh.",
-    "loiKhuyen": "Hãy học cách tha thứ cho những kẻ đã làm hại mình, vì họ chính là những 'người thầy' giúp bạn rèn luyện đức kiên nhẫn. Nên đi chùa, lễ Phật hoặc làm các công đức về ấn tống kinh sách để khai mở trí tuệ. Giữ tâm thái 'tùy duyên mà sống' sẽ giúp bạn vượt qua mọi biến động."
+    "so": 42,
+    "baiKe": "Nhẫn nhục cầu đại sự,\nChớ giận mất khôn ngoan.\nLửa sân thiêu rừng phước,\nNhẫn nhịn được bình an.\nSen nở trong lửa cháy,\nCốt cách bậc hiền nhân.",
+    "tongQuan": "Bạn có thể đang gặp phải sự khiêu khích hoặc bất công. Quẻ khuyên bạn 'nhẫn' không phải là nhu nhược, mà là đại trí tuệ. Người nhẫn được những việc khó nhẫn sẽ gánh vác được những việc lớn lao trong thiên hạ.",
+    "nhanQua": "Những người gây khó dễ cho bạn là 'người thầy' thử thách định lực của bạn. Trả đũa chỉ làm nghiệp chồng nghiệp. Nhẫn nhịn là cách bạn chấm dứt vòng lặp oan gia trái chủ và bảo vệ phước đức của mình.",
+    "loiKhuyen": "Khi cơn giận nổi lên, hãy im lặng và rời đi. Đừng nói hay quyết định gì lúc nóng nảy. Hãy niệm Phật hoặc đếm hơi thở để hạ hỏa. Một phút nhẫn nhịn sẽ đổi lại vạn ngày bình an."
   },
   {
-    "so": 3,
-    "baiKe": "Lời nói như hoa phun gấm vóc,\nTâm từ tỏa ngát khắp muôn phương.\nKhẩu nghiệp thu thúc đời an lạc,\nThị phi chẳng vướng bậc hiền lương.\nOan gia trái chủ nay thành bạn,\nDưới ánh đạo vàng rạng hào quang.",
-    "tongQuan": "Vận thế hiện tại nhắc nhở bạn đặc biệt về giao tiếp. Một lời nói ái ngữ có thể xoay chuyển cả một tình thế ngặt nghèo. Quý nhân của bạn chính là những người xung quanh, nhưng họ chỉ xuất hiện khi bạn thể hiện lòng chân thành và sự lắng nghe.",
-    "nhanQua": "Có thể bạn đang gặp một vài rắc rối về lời đồn thổi hoặc tranh cãi. Đây là quả báo nhẹ của việc thiếu chánh niệm trong lời nói từ quá khứ. Tuy nhiên, nếu hiện tại bạn giữ được sự im lặng tĩnh tại hoặc chỉ nói lời hòa giải, bạn sẽ tiêu trừ được đại nạn.",
-    "loiKhuyen": "Thực hành 'Hạnh lắng nghe' của Bồ Tát Quán Thế Âm. Trước khi nói hãy tự hỏi: Lời này có thật không? Có ích không? Có đúng lúc không? Nếu không, hãy im lặng. Sự im lặng lúc này quý giá hơn vàng ngọc và là chìa khóa bảo vệ phước đức của bạn."
+    "so": 43,
+    "baiKe": "Biết đủ là giàu có,\nTham cầu khổ lụy thân.\nSống đời như mây trắng,\nTự tại chẳng vướng trần.\nLộc trời ban đúng lúc,\nChẳng cần phải chuyên cần.",
+    "tongQuan": "Vận trình nhắc bạn về sự 'Tri túc' (biết đủ). Bạn có thể đang quá lo lắng về tiền bạc hoặc danh lợi. Quẻ báo hiệu rằng những gì thuộc về bạn sẽ đến, những gì không phải của bạn thì có giành cũng không giữ được lâu.",
+    "nhanQua": "Sự giàu sang đích thực đến từ tâm không tham luyến. Người biết đủ là người giàu nhất thế gian vì không bao giờ thấy thiếu. Việc bạn cảm thấy thiếu thốn hiện tại là do lòng tham đang dẫn dắt, không phải do thực tế thiếu hụt.",
+    "loiKhuyen": "Hãy trân trọng những gì đang có trong tay. Đừng đứng núi này trông núi nọ. Sống đơn giản, tiết chế ham muốn, bạn sẽ thấy mình thong dong và may mắn tự nhiên kéo đến."
   },
   {
-    "so": 4,
-    "baiKe": "Nhẫn một chút sóng yên gió lặng,\nLùi một bước biển rộng trời cao.\nTham sân như lửa thiêu rừng phước,\nĐịnh tuệ như nước mát ngọt ngào.\nVượt qua thử thách lòng kiên định,\nĐạo nghiệp từ đây rạng ánh sao.",
-    "tongQuan": "Bạn đang đứng trước một sự khiêu khích hoặc một tình huống gây nóng giận. Quẻ này khuyên bạn tuyệt đối không nên đối đầu trực diện. 'Nhẫn' ở đây không phải là nhục nhã, mà là sự dũng cảm của bậc trí giả. Thành công lớn chỉ dành cho người biết kiểm soát cảm xúc.",
-    "nhanQua": "Mọi sự oan ức bạn chịu đựng hôm nay đều có căn nguyên từ việc bạn đã từng gieo sự nóng nảy, áp đặt lên người khác. Việc nhẫn nhịn hiện tại chính là cách 'cắt đứt' vòng lặp nghiệp báo oan oan tương báo. Bạn nhẫn được bao nhiêu, phước báu tăng trưởng bấy nhiêu.",
-    "loiKhuyen": "Khi cơn giận nổi lên, hãy thực hành phương pháp hít thở sâu hoặc niệm danh hiệu Phật. Đừng đưa ra bất kỳ quyết định nào khi tâm đang xao động. Hãy ăn chay hoặc phóng sinh để làm dịu bớt hỏa khí trong lòng, mọi việc sẽ tự nhiên tốt đẹp vào phút cuối."
+    "so": 44,
+    "baiKe": "Gieo nhân lành gặt quả,\nĐời chẳng phụ người ngay.\nLòng thành thông thiên địa,\nPhúc báu rạng ngàn mây.\nĐừng nghi ngờ chánh pháp,\nVận đổi kể từ đây.",
+    "tongQuan": "Quẻ đại cát. Những nỗ lực thầm lặng của bạn bấy lâu nay đã đến ngày kết trái. Đây là lúc bạn được đền đáp xứng đáng cho sự lương thiện và trung thực của mình. Mọi việc dự tính đều có khả năng thành công cao.",
+    "nhanQua": "Luật nhân quả rất công bằng, có thể đến muộn nhưng không bao giờ sai. Những việc tốt bạn làm từ trước đã tích tụ thành một nguồn năng lượng lớn bảo vệ bạn lúc này. Bạn đang hưởng quả ngọt của lòng nhân hậu.",
+    "loiKhuyen": "Hãy tiếp tục giữ vững tâm thiện. Đừng vì thành công mà kiêu mạn. Hãy chia sẻ niềm vui và thành quả này với những người khó khăn hơn để phước báu được nhân đôi và bền vững."
   },
   {
-    "so": 5,
-    "baiKe": "Thân như bọt nước sóng trùng dương,\nSanh tử xưa nay lẽ thường tình.\nĐừng vì giả tạm quên chân thật,\nHãy tìm bản tánh hiển linh quang.\nSống đời tỉnh thức từng giây phút,\nCực Lạc là đây, chẳng viễn phương.",
-    "tongQuan": "Quẻ này nhắc nhở bạn về sự quý giá của thời gian và thân mạng. Bạn đang quá mải mê đuổi theo những giá trị vật chất bên ngoài mà quên mất việc chăm sóc tâm hồn. Vận trình trung bình, không có biến động lớn nhưng cần sự tỉnh thức để tránh lạc lối vào những phù hoa.",
-    "nhanQua": "Những lo âu về bệnh tật hay sự già nua là lời nhắc nhở từ nghiệp thức. Có thể bạn đã từng lãng phí quá nhiều năng lượng vào những điều vô bổ. Tuy nhiên, 'quay đầu là bờ', chỉ cần bạn bắt đầu sống tỉnh thức từ hôm nay, mọi dấu hiệu tiêu cực sẽ dần tan biến.",
-    "loiKhuyen": "Hãy bớt mong cầu những thứ ngoài thân. Nên dành thời gian chăm sóc sức khỏe và thực hành thiền quán về sự vô thường. Khi bạn nhận ra mọi thứ đều là giả tạm, bạn sẽ không còn sợ hãi mất mát, từ đó có được sự bình an đích thực mà không tiền bạc nào mua được."
+    "so": 45,
+    "baiKe": "Khẩu nghiệp khó tịnh hóa,\nLời nói tựa dao hình.\nNói lời lành, ý đẹp,\nCho đời rạng bình minh.\nIm lặng là vàng báu,\nGiữ phước cho chính mình.",
+    "tongQuan": "Cảnh báo về lời ăn tiếng nói. Một lời nói thiếu suy nghĩ có thể phá hủy công danh và các mối quan hệ bạn đã xây dựng cả đời. Quẻ khuyên bạn nên cẩn trọng, tránh xa các cuộc tranh luận, thị phi hay nói xấu người khác.",
+    "nhanQua": "Thị phi bạn gặp hôm nay có thể là quả của việc lỡ lời trong quá khứ. Việc thu thúc khẩu nghiệp hiện tại chính là cách tốt nhất để bạn tránh được những tai họa bất ngờ và giữ được uy tín của bản thân.",
+    "loiKhuyen": "Thực hành 'Ái ngữ' - chỉ nói những lời có lợi cho người, có tính xây dựng. Nếu không nói được lời tốt đẹp, hãy chọn sự im lặng thanh tịnh. Sự im lặng lúc này sẽ giúp bạn tránh được rất nhiều rắc rối pháp lý hoặc tình cảm."
   },
   {
-    "so": 6,
-    "baiKe": "Gieo hạt bồ đề trên đất tâm,\nChăm bón từ bi, tưới nhẫn hòa.\nCành cao rợp bóng che muôn loại,\nTrái ngọt dâng đời, ngát hương hoa.\nĐừng tìm Phật ở nơi tiên cảnh,\nPhật tại lòng ta, chẳng đâu xa.",
-    "tongQuan": "Vận trình rất tốt cho những ai đang làm công tác xã hội, giáo dục hoặc từ thiện. Bạn đang tạo ra sức ảnh hưởng tích cực đến cộng đồng. Mọi dự án bắt đầu từ tâm thiện nguyện đều sẽ nhận được sự hộ trì của chư thiên và thiện thần. Thành công của bạn sẽ rất bền vững.",
-    "nhanQua": "Bạn vốn có chủng tử Phật tánh rất sâu dày. Việc bạn hay giúp đỡ người khác là thói quen từ nhiều đời. Đây là lúc 'hoa quả' của lòng tốt trổ bông. Những người bạn giúp đỡ trước đây sẽ quay lại trở thành quý nhân phò trợ bạn trong lúc bạn không ngờ tới nhất.",
-    "loiKhuyen": "Hãy tiếp tục con đường phụng sự mà không mong cầu đền đáp. 'Làm ơn không nhớ, chịu ơn chớ quên'. Nên thực hành cúng dường Tam Bảo hoặc hỗ trợ các bậc tu hành để gieo duyên lành với chánh pháp, giúp cho con đường sự nghiệp và tâm linh luôn song hành rạng rỡ."
+    "so": 46,
+    "baiKe": "Tùy duyên mà bất biến,\nSống đời chẳng lo âu.\nVạn vật có trước sau,\nAn nhiên bước qua cầu.\nĐừng cưỡng cầu duyên nợ,\nKhổ đau tự tan mau.",
+    "tongQuan": "Về tình cảm hoặc quan hệ nhân sự, quẻ khuyên hãy để mọi thứ diễn ra tự nhiên. Người đến nên đón, người đi nên tiễn. Đừng cố níu kéo những gì không còn thuộc về mình, vì điều đó chỉ mang lại sự đau khổ vô ích.",
+    "nhanQua": "Mọi sự gặp gỡ đều do duyên nợ từ tiền kiếp. Khi duyên hết, có muốn giữ cũng không được. Việc chấp nhận sự tan rã hay chia ly chính là cách bạn trả xong nợ cũ để mở lòng đón nhận những duyên mới tốt đẹp hơn.",
+    "loiKhuyen": "Hãy học cách buông tay với tâm thái nhẹ nhàng. Đừng oán trách đối phương hay tự dằn vặt mình. Tập trung vào việc phát triển bản thân, khi hương thơm tâm hồn lan tỏa, hoa trái tự nhiên sẽ tìm đến."
   },
   {
-    "so": 7,
-    "baiKe": "Công danh phú quý tựa chiêm bao,\nĐược mất hơn thua có đáng nào?\nGiữ lấy lòng son trong sạch khiết,\nĐường trần dẫu bụi, chẳng lao đao.\nAn nhiên tự tại giữa dòng đời,\nHạnh phúc là đây, chẳng phải đâu.",
-    "tongQuan": "Quẻ này cảnh báo bạn không nên quá tham cầu danh vọng trong lúc này. Càng tranh giành, càng dễ mất mát. Có những thứ tưởng chừng như đã nắm chắc trong tay nhưng lại vuột mất vì thiếu duyên. Hãy bằng lòng với những gì đang có, bạn sẽ thấy mình thực sự giàu sang.",
-    "nhanQua": "Sự khao khát thái quá bắt nguồn từ lòng tham tích tụ lâu ngày. Theo quy luật nhân quả, người càng nắm chặt thì tay càng chóng mỏi. Sự thiếu hụt hiện tại là để bạn học bài học về 'Tri túc' (biết đủ). Khi tâm không còn mong cầu, vạn vật sẽ tự tìm đến phục vụ bạn.",
-    "loiKhuyen": "Hãy dành thời gian đi dạo giữa thiên nhiên, buông bỏ mọi toan tính thiệt hơn. Nên đọc kinh Kim Cang để hiểu về tánh 'Không' của vạn vật. Thực hành hạnh 'Xả' – xả bỏ vật dụng không cần thiết, xả bỏ những ý nghĩ tiêu cực, bạn sẽ thấy đời nhẹ tênh và may mắn tự tìm đến."
+    "so": 47,
+    "baiKe": "Trí tuệ như ngọn đuốc,\nSoi sáng nẻo u minh.\nĐừng mê mờ ảo ảnh,\nHãy tìm lại chính mình.\nChánh tri và chánh kiến,\nĐời rạng rỡ anh linh.",
+    "tongQuan": "Bạn đang đứng trước một sự lựa chọn quan trọng nhưng tâm trí đang bị sương mù bao phủ. Quẻ khuyên bạn không nên nghe theo lời xúi giục hay chạy theo lợi ích nhất thời. Hãy dùng trí tuệ tỉnh táo để phân tích đâu là đúng, đâu là sai.",
+    "nhanQua": "Sự u mê dẫn đến những quyết định sai lầm là nhân của khổ đau sau này. Việc bạn tìm cầu sự sáng suốt hôm nay là bước đầu của giác ngộ. Chỉ có trí tuệ mới giúp bạn cắt đứt được những xiềng xích của nghiệp báo.",
+    "loiKhuyen": "Nên tìm đến những bậc thiện tri thức (thầy hiền, bạn tốt) để xin lời khuyên. Hãy đọc kinh sách hoặc ngồi thiền để tâm trí được lắng dịu. Khi tâm không còn xao động, bạn sẽ nhìn thấu được bản chất thực của vấn đề."
   },
   {
-    "so": 8,
-    "baiKe": "Hiếu hạnh đứng đầu muôn hạnh lành,\nCội nguồn phúc đức ở nhà mình.\nCha già mẹ yếu là Phật sống,\nPhụng dưỡng ân cần, hiển hiển linh.\nTrời cao soi xét lòng con thảo,\nSự nghiệp từ đây rạng hiển vinh.",
-    "tongQuan": "Vận trình của bạn đang phụ thuộc trực tiếp vào cách bạn đối xử với gia đình, đặc biệt là cha mẹ. Nếu gia đạo đang lục đục, mọi việc kinh doanh hay công danh đều sẽ trắc trở. Ngược lại, nếu bạn biết quay về nguồn cội, mọi nút thắt trong cuộc sống sẽ tự động được tháo gỡ.",
-    "nhanQua": "Cha mẹ là 'phước điền' (ruộng phước) lớn nhất của đời người. Mọi sự khó khăn bạn gặp phải có thể do bạn đã vô tình hay hữu ý làm tổn thương đấng sinh thành. Nhân quả của sự bất hiếu rất nặng, nhưng nhân quả của sự hiếu thảo lại mang đến phước báu cực kỳ nhanh chóng và to lớn.",
-    "loiKhuyen": "Hãy ngay lập tức làm điều gì đó để báo hiếu. Nếu cha mẹ còn sống, hãy thăm hỏi, chăm sóc bằng cả tấm lòng. Nếu cha mẹ đã quá vãng, hãy làm việc thiện và hồi hướng công đức cho họ. Đây là 'bí kíp' phong thủy tốt nhất để cải vận mà không cần bất kỳ linh vật nào."
+    "so": 48,
+    "baiKe": "Bố thí lòng không tiếc,\nPhước đức chảy về nguồn.\nCho đi là còn mãi,\nDứt sạch mọi nỗi buồn.\nLòng vàng càng tỏa rạng,\nĐời đẹp tựa ngàn muôn.",
+    "tongQuan": "Vận trình rất tốt cho việc sẻ chia. Đừng sợ rằng cho đi sẽ mất, thực tế quy luật vũ trụ là 'càng cho đi càng nhận lại nhiều'. Sự hào phóng của bạn lúc này sẽ mở ra những cánh cửa tài lộc và quý nhân trong tương lai gần.",
+    "nhanQua": "Sự giàu có và thuận lợi hiện tại là quả báu của lòng vị tha. Việc bạn tiếp tục gieo hạt giống 'cho đi' chính là cách bạn gia hạn phước báu của mình mãi mãi. Người ích kỷ sẽ nghèo đi, người hào phóng sẽ ngày càng hưng vượng.",
+    "loiKhuyen": "Hãy giúp đỡ người khó khăn bằng khả năng của mình, dù là tiền bạc, công sức hay một lời an ủi. Hãy làm với tâm không mong cầu báo đáp, phước báu từ việc làm thiện tự tâm là lớn nhất và bền vững nhất."
   },
   {
-    "so": 9,
-    "baiKe": "Trí tuệ bừng lên phá tối tăm,\nĐường mê nay đã thấy lối về.\nChánh tri chánh kiến soi đường bước,\nChẳng ngại phong ba, chẳng nệ nề.\nSen hồng nở rộ trong tâm khảm,\nGiải thoát phiền hà, dứt khổ mê.",
-    "tongQuan": "Đây là quẻ về sự giác ngộ và sáng suốt. Bạn sắp tìm ra lối thoát cho một vấn đề nan giải bấy lâu nay. Một ý tưởng mới, một người thầy hoặc một cuốn sách sẽ xuất hiện và thay đổi hoàn toàn tư duy của bạn. Hãy mở lòng đón nhận những kiến thức mới mẻ và chân chính.",
-    "nhanQua": "Bạn đã có thời gian dài tìm tòi và suy ngẫm, đó chính là nhân của trí tuệ. Sau thời gian 'ủ mầm' trong bóng tối, hạt giống hiểu biết nay đã vươn mình ra ánh sáng. Đây là kết quả của việc bạn luôn khao khát sự thật và sống không dối trá với bản thân.",
-    "loiKhuyen": "Nên duy trì thói quen đọc sách thánh hiền hoặc nghe thuyết pháp mỗi ngày. Tránh xa các môi trường tiêu cực, tà kiến hoặc những hội nhóm kéo bạn xuống thấp hơn. Sự thanh tịnh của môi trường sống sẽ giúp trí tuệ của bạn ngày càng sắc bén và tỏa sáng."
+    "so": 49,
+    "baiKe": "Thân thể là đền thờ,\nHãy chăm sóc ân cần.\nĂn chay dưỡng sinh khí,\nGiấc ngủ dứt nợ trần.\nSức khỏe là báu vật,\nĐừng lãng phí phù vân.",
+    "tongQuan": "Quẻ nhắc nhở nghiêm túc về sức khỏe. Bạn đang làm việc quá sức hoặc sống thiếu điều độ. Nếu không dừng lại nghỉ ngơi, bạn sẽ phải trả giá bằng thân bệnh và tâm bệnh. Tiền bạc hay danh tiếng không thể mua lại được sức khỏe đã mất.",
+    "nhanQua": "Thân bệnh thường có gốc rễ từ nghiệp sát sinh hoặc ngược đãi bản thân trong quá khứ. Việc ăn uống lành mạnh và bảo vệ sự sống chính là cách bạn gieo nhân 'Trường thọ'. Hãy yêu thương lấy 'cỗ máy' đang phục vụ tâm hồn bạn.",
+    "loiKhuyen": "Nên thực hiện chế độ ăn thanh đạm, bớt thịt thà, tăng rau quả. Dành thời gian tập thể dục và hít thở không khí trong lành. Đi ngủ sớm và tránh xa các chất kích thích. Một cơ thể khỏe mạnh sẽ giúp trí tuệ minh mẫn để giải quyết mọi việc."
   },
   {
-    "so": 10,
-    "baiKe": "Tùy duyên thuận pháp sống thong dong,\nViệc đến thì làm, chẳng bận lòng.\nNhư nước xuôi dòng vào biển lớn,\nNhư mây tự tại giữa hư không.\nLòng không vướng bận điều hư ảo,\nHạnh phúc viên dung, ý thỏa lòng.",
-    "tongQuan": "Mọi thứ đang diễn ra rất tự nhiên và tốt đẹp theo đúng tiến độ của vũ trụ. Bạn không cần phải lo lắng hay dùng thủ đoạn để đạt được mục đích. Hãy cứ làm tốt việc của mình với tâm thế thoải mái nhất, kết quả sẽ vượt ngoài mong đợi của bạn.",
-    "nhanQua": "Bạn đang gặt hái thành quả từ việc sống đúng với thiên đạo (quy luật tự nhiên). Trong quá khứ, bạn không cưỡng cầu, không hại người để lợi mình, nên giờ đây vạn vật đều ủng hộ bạn. 'Người thuận trời thì sống, người nghịch trời thì khổ', bạn đang đi đúng đường.",
-    "loiKhuyen": "Hãy tiếp tục giữ thái độ 'Tùy duyên bất biến'. Việc gì đến hãy đón nhận nồng nhiệt, việc gì đi hãy tiễn đưa nhẹ nhàng. Thực hành thiền hành (đi trong chánh niệm) để cảm nhận sự kết nối giữa mình và vũ trụ. Sự an lạc này chính là tài sản quý giá nhất."
+    "so": 50,
+    "baiKe": "Nửa chặng đường nhân thế,\nNhìn lại thấy hư không.\nĐược mất như mây nổi,\nCó không tựa gió nồng.\nGiữ lòng an tịnh nhất,\nHạnh phúc ở tại tâm.",
+    "tongQuan": "Đây là quẻ của sự trung dung và chiêm nghiệm. Bạn đã đi qua nhiều thăng trầm và giờ là lúc cần sự ổn định. Không nên mưu cầu sự bùng nổ hay thay đổi đột ngột. Sự bình lặng, giản đơn lúc này mới là niềm hạnh phúc thực sự.",
+    "nhanQua": "Mọi sự tranh giành hơn thua cuối cùng đều trở về con số không. Nhân quả nhắc bạn rằng giá trị thực của một kiếp người không nằm ở tài sản tích trữ mà ở sự bình an trong tâm hồn. Bạn đang ở giai đoạn chín muồi của nhận thức.",
+    "loiKhuyen": "Hãy đơn giản hóa cuộc sống. Bớt những mối quan hệ xã giao vô bổ, dành thời gian cho gia đình và sở thích lành mạnh. Một tâm hồn thong dong không vướng bận là món quà quý giá nhất mà bạn có thể tự tặng cho mình lúc này."
   },
   {
-    "so": 11,
-    "baiKe": "Nghịch cảnh chính là bậc thang cao,\nLuyện rèn ý chí, rạng anh hào.\nVàng tươi qua lửa càng thêm quý,\nNgọc trắng mài trau đẹp biết bao.\nĐừng nản lòng khi gặp gió ngược,\nCánh buồm trí tuệ sẽ vượt rào.",
-    "tongQuan": "Đừng sợ hãi nếu hiện tại bạn đang gặp khó khăn. Quẻ này khẳng định đây là 'thời gian tôi luyện' cần thiết để bạn gánh vác những trách nhiệm lớn hơn trong tương lai. Những người phản đối bạn hay những trở ngại hiện tại thực chất đang giúp bạn hoàn thiện những kỹ năng còn thiếu.",
-    "nhanQua": "Bạn đang trải qua một giai đoạn 'thử thách lòng người'. Nhân quả không bỏ rơi người lương thiện, nhưng người lương thiện cần phải có bản lĩnh. Những khó khăn này là để thanh lọc những yếu đuối trong tâm hồn bạn, chuẩn bị cho một sự bùng nổ phước báu sắp tới.",
-    "loiKhuyen": "Hãy giữ vững niềm tin và sự kiên trì. Coi khó khăn là bài tập về nhà mà vũ trụ giao cho. Tuyệt đối không than vãn vì lời than vãn sẽ làm rò rỉ năng lượng tích cực. Hãy niệm chú Đại Bi để tăng cường sức mạnh tâm linh và sự bảo hộ của chư Bồ Tát."
+    "so": 51,
+    "baiKe": "Gia hòa vạn sự hưng,\nNgười thân là báu vật.\nĐừng vì người ngoài cuộc,\nMà làm khổ người thân.\nCội nguồn của hạnh phúc,\nỞ ngay tại gia đình.",
+    "tongQuan": "Quẻ nhấn mạnh vào tình cảm gia đình. Nếu gia đạo bất an, công việc sẽ trắc trở. Hãy dành thời gian quan tâm đến vợ chồng, con cái hoặc cha mẹ. Sự đồng lòng của các thành viên trong gia đình sẽ tạo ra sức mạnh vượt qua mọi khó khăn bên ngoài.",
+    "nhanQua": "Gia đình là nơi tụ hội của những duyên nợ sâu nặng nhất. Đối xử tốt với người thân là cách trả nợ nghiệp nhanh nhất và tích đức dày nhất. Đừng mang bực dọc bên ngoài về trút lên những người yêu thương mình nhất.",
+    "loiKhuyen": "Chủ động hòa giải những mâu thuẫn nhỏ trong nhà. Một bữa cơm ấm cúng, một lời hỏi han chân thành lúc này có giá trị hơn vạn lời cầu nguyện ngoài chùa. Khi 'gốc' (gia đình) vững, 'ngọn' (sự nghiệp) tự nhiên sẽ xanh tốt."
   },
   {
-    "so": 12,
-    "baiKe": "Lòng rộng bao dung chứa cả trời,\nHận thù hóa giải, nở hoa tươi.\nTừ bi hỷ xả là linh thuốc,\nChữa lành đau khổ của muôn người.\nSống đời không oán cũng không trách,\nNụ cười rạng rỡ khắp muôn nơi.",
-    "tongQuan": "Chìa khóa vận mệnh của bạn lúc này nằm ở hai chữ 'Bao dung'. Có thể ai đó đã gây lỗi lầm với bạn, nhưng nếu bạn chọn cách trả đũa, bạn sẽ tự đóng cánh cửa may mắn của mình. Nếu bạn chọn tha thứ, bạn sẽ thấy một luồng năng lượng mới tràn vào cuộc sống.",
-    "nhanQua": "Oan gia trái chủ thường xuất hiện để đòi nợ cũ. Nếu bạn tiếp tục oán hận, nợ nần sẽ chồng chất từ đời này sang đời khác. Một niệm từ bi hóa giải vạn nghìn oán kết. Sự tha thứ của bạn hôm nay chính là món quà lớn nhất bạn dành cho chính tương lai của mình.",
-    "loiKhuyen": "Hãy thực hành 'Thiền từ tâm' (Metta), gửi năng lượng bình an đến cả những người bạn không thích. Khi lòng bạn đủ rộng, khó khăn chỉ như một nắm muối bỏ vào lòng hồ, chẳng thể làm mặn được nước. Phước báu từ lòng từ bi là loại phước báu vô tận."
+    "so": 52,
+    "baiKe": "Ánh mắt nhìn từ bi,\nHóa giải mọi hận thù.\nTrái tim rộng mở lớn,\nĐâu cũng thấy hào quang.\nSống đời không oán trách,\nBình an tựa thiên đường.",
+    "tongQuan": "Thái độ sống của bạn quyết định vận mệnh. Nếu bạn nhìn đời bằng ánh mắt khắt khe, bạn sẽ thấy đâu đâu cũng là đối thủ. Nếu bạn nhìn bằng tâm từ bi, bạn sẽ thấy cuộc đời tràn đầy sự hỗ trợ. Quẻ khuyên hãy bao dung hơn với những thiếu sót của người khác.",
+    "nhanQua": "Oán thù không thể hóa giải bằng oán thù, chỉ có tình thương mới hóa giải được. Nhân của sự bao dung sẽ gặt quả là sự kính trọng và giúp đỡ từ mọi phía. Bạn đang nắm trong tay chìa khóa để biến kẻ thù thành bạn đồng hành.",
+    "loiKhuyen": "Thực hành việc nhìn vào điểm tốt của người khác thay vì soi mói lỗi lầm. Tập tha thứ cho những điều nhỏ nhặt. Khi lòng bạn đủ rộng, khó khăn chỉ như nắm muối bỏ vào lòng hồ, không thể làm mặn được tâm hồn bạn."
   },
   {
-    "so": 13,
-    "baiKe": "Tiết chế tham cầu, dưỡng tánh thanh,\nĐời người cơm áo đủ là vinh.\nĐừng xây lâu đài trên cát lún,\nHãy bồi nền móng đạo tâm minh.\nSống giản đơn cho lòng thanh thản,\nPhúc dày lộc thọ tựa bình minh.",
-    "tongQuan": "Vận thế nhắc nhở về sự chi tiêu và ham muốn vật chất. Bạn có thể đang bị cuốn vào vòng xoáy của sự hào nhoáng bên ngoài mà quên mất sự tu dưỡng bên trong. Quẻ này khuyên bạn nên sống giản dị hơn, bớt mua sắm những thứ không cần thiết để tích lũy phước đức.",
-    "nhanQua": "Sự thiếu thốn trong tương lai thường bắt nguồn từ sự lãng phí ở hiện tại. Việc hưởng thụ quá mức sẽ làm cạn kiệt 'ngân hàng phước báu' của bạn một cách nhanh chóng. Sống tiết kiệm và biết sẻ chia chính là cách bạn đang bảo hiểm cho tương lai của mình.",
-    "loiKhuyen": "Hãy tập lối sống tối giản (Minimalism). Dọn dẹp nhà cửa, cho đi những đồ dùng không dùng tới. Sự ngăn nắp và thanh tịnh trong không gian sống sẽ dẫn dắt những năng lượng cát tường vào nhà. Nên ăn chay nhiều hơn để thanh lọc thân tâm."
+    "so": 53,
+    "baiKe": "Sông sâu nhờ lặng lẽ,\nNgười trí nhờ khiêm cung.\nCúi đầu đâu có nhục,\nẤy là bậc anh hùng.\nPhước báu dành người thấp,\nCao ngạo chỉ đường cùng.",
+    "tongQuan": "Bạn có thể đang ở vị trí cao hoặc đạt được thành tựu nhất định. Quẻ cảnh báo về sự kiêu ngạo. 'Lúa chín thường cúi đầu', người càng có thực tài càng nên khiêm tốn. Sự khiêm nhường sẽ giúp bạn giữ được thành quả và được mọi người ủng hộ lâu dài.",
+    "nhanQua": "Ngạo mạn là mầm mống của sự thất bại và bị cô lập. Phước báu chảy về chỗ trũng như nước chảy về hạ lưu. Nhân của sự khiêm cung là trí tuệ ngày càng rộng mở và quý nhân luôn xuất hiện hộ trì.",
+    "loiKhuyen": "Hãy lắng nghe ý kiến của cấp dưới hoặc những người trẻ tuổi. Đừng vội khẳng định mình luôn đúng. Một thái độ cầu thị và khiêm tốn sẽ giúp bạn học hỏi được nhiều điều mới và tránh được những sai lầm chết người do chủ quan."
   },
   {
-    "so": 14,
-    "baiKe": "Đức trọng quỷ thần đều kính nể,\nTâm thành cảm động đến thiên cung.\nSống đời chính trực không gian dối,\nĐường đời rộng mở, bước thong dong.\nÁnh sáng chân lý luôn che chở,\nVạn sự hanh thông, ý thỏa lòng.",
-    "tongQuan": "Đây là quẻ cực tốt cho danh dự và uy tín. Nếu bạn đang đứng trước một cuộc thi, một đợt xét duyệt hay cần sự tin tưởng từ người khác, bạn sẽ thành công nhờ vào nhân cách sống của mình bấy lâu nay. Mọi sự gian dối đều sẽ bị lộ, nhưng sự chân chính sẽ tỏa sáng rực rỡ.",
-    "nhanQua": "Bạn đã gieo nhân 'Thành tín' nên giờ đây gặt quả 'Uy tín'. Trong thế giới đầy rẫy sự lừa lọc, người sống chân thật như bạn chính là báu vật. Các vị hộ pháp luôn âm thầm đi theo che chở cho những người có tâm hồn ngay thẳng và trong sạch.",
-    "loiKhuyen": "Hãy tiếp tục giữ gìn giới luật và đạo đức nghề nghiệp. Đừng vì lợi ích trước mắt mà đánh đổi lương tâm. Nên thắp hương lễ Phật với lòng thành kính, cầu nguyện cho thế giới hòa bình, lòng thành của bạn sẽ thấu đến tận các tầng trời cao."
+    "so": 54,
+    "baiKe": "Nghịch cảnh là thầy giỏi,\nLuyện chí sắt gan vàng.\nĐừng sợ hãi gian khổ,\nẤy là nẻo huy hoàng.\nSen mọc từ bùn tối,\nHương ngát khắp nhân gian.",
+    "tongQuan": "Bạn đang gặp khó khăn, nhưng đừng nản lòng. Đây không phải là bế tắc mà là 'lửa thử vàng'. Những trở ngại này đang rèn luyện cho bạn bản lĩnh và kỹ năng cần thiết cho một vị trí lớn hơn sau này. Sau cơn mưa trời lại sáng, và sẽ có cầu vồng rực rỡ.",
+    "nhanQua": "Chướng duyên xuất hiện để thanh lọc nghiệp lực và thử thách tâm kiên định. Vượt qua được khó khăn này, bạn sẽ tiêu trừ được rất nhiều nợ cũ và tạo ra nhân của sự thành công vững chắc. Không có bậc vĩ nhân nào không đi qua gian khổ.",
+    "loiKhuyen": "Hãy đón nhận khó khăn với tâm thế học hỏi. Tự hỏi mình: 'Bài học ở đây là gì?'. Giữ vững niềm tin và tiếp tục nỗ lực. Sự kiên trì của bạn lúc này chính là 'vốn liếng' quý giá nhất cho thành công mai sau."
   },
   {
-    "so": 15,
-    "baiKe": "Lục hòa cộng trụ, đạo thêm tươi,\nĐoàn kết yêu thương, rạng nụ cười.\nChớ có chia rẽ gây ly tán,\nHãy là chất kết dính lòng người.\nSức mạnh đồng tâm dời núi biển,\nThành công rực rỡ khắp muôn nơi.",
-    "tongQuan": "Vận trình liên quan đến tập thể, đội nhóm hoặc gia đình lớn. Sự thành bại của bạn lúc này không nằm ở nỗ lực cá nhân mà ở khả năng hòa nhập và kết nối. Hãy hạ thấp cái tôi xuống để lắng nghe ý kiến chung. Một tập thể đoàn kết sẽ giúp bạn đi xa hơn rất nhiều.",
-    "nhanQua": "Sự cô độc hay bị tách biệt là quả báo của lòng tự cao hoặc tính đố kỵ trong quá khứ. Ngược lại, việc được mọi người ủng hộ hiện tại là nhờ bạn đã từng biết vì người khác, biết nhường nhịn và sẻ chia quyền lợi. Hãy tiếp tục gieo nhân hòa hợp để gặt quả bình an.",
-    "loiKhuyen": "Chủ động hòa giải những mâu thuẫn trong nhóm hoặc gia đình. Thực hành 'Lục hòa' (6 phép hòa kính của Phật giáo). Tổ chức một buổi họp mặt hoặc bữa cơm ấm cúng để gắn kết tình thân. Khi nhân tâm hòa hợp, tài lộc sẽ tự nhiên hưng vượng."
+    "so": 55,
+    "baiKe": "Tịnh tâm nghe tiếng gió,\nCảm nhận sự sống này.\nĐừng chạy theo hư ảo,\nPhí hoài những ngày hay.\nHiện tại là báu vật,\nHãy nắm chặt trong tay.",
+    "tongQuan": "Quẻ nhắc bạn hãy sống 'Chánh niệm'. Bạn đang sống quá nhiều cho tương lai (lo âu) hoặc quá khứ (nuối tiếc) mà bỏ quên hiện tại. Hạnh phúc không phải là điểm đến ở cuối con đường, hạnh phúc chính là từng bước chân bạn đang đi.",
+    "nhanQua": "Sự lo âu thái quá tạo ra năng lượng tiêu cực, làm cản trở vận may hiện tại. Nhân của sự tỉnh thức là một cuộc sống an lạc và không hối tiếc. Bạn đang bỏ lỡ những vẻ đẹp giản đơn xung quanh mình vì tâm trí quá bận rộn.",
+    "loiKhuyen": "Tập trung vào việc bạn đang làm, dù là ăn cơm, uống nước hay làm việc. Dành 15 phút mỗi ngày chỉ để ngồi yên và không nghĩ ngợi gì. Cảm nhận lòng biết ơn với hơi thở và nhịp đập con tim. Sự an trú trong hiện tại sẽ mang lại cho bạn sức mạnh kỳ diệu."
   },
   {
-    "so": 16,
-    "baiKe": "Nghiệp chướng dẫu sâu cũng có ngày,\nTan thành mây khói tựa khói bay.\nNếu biết ăn ăn và hối lỗi,\nÁnh đạo soi đường, dứt đắng cay.\nLòng thành sám hối tiêu tai nạn,\nHạnh phúc lại về, tay nắm tay.",
-    "tongQuan": "Có thể bạn đang cảm thấy nặng nề hoặc gặp những chuyện không may liên tiếp. Quẻ này không phải để đe dọa, mà để nhắc bạn về sự 'Sám hối'. Có những món nợ tâm linh từ quá khứ đang đòi được thanh toán. Hãy thành tâm đối diện, mọi việc sẽ được giảm nhẹ.",
-    "nhanQua": "Tất cả chúng ta đều là phàm phu, ai cũng có lỗi lầm. Quan trọng không phải là không có lỗi, mà là biết nhận lỗi. Những trắc trở hiện tại là lời nhắc nhở để bạn dừng lại những hành động sai trái và sửa đổi bản thân. Sám hối chân thành có năng lực thay đổi định mệnh.",
-    "loiKhuyen": "Hãy thực hành lạy sám hối (như lạy 108 danh hiệu Phật hoặc sám hối Hồng Danh). Nói lời xin lỗi với những người bạn từng làm khổ. Phát nguyện làm một việc thiện lớn để bù đắp lại những sai lầm cũ. Khi tâm bạn thực sự thay đổi, vận mệnh sẽ xoay chuyển theo."
+    "so": 56,
+    "baiKe": "Lòng thành thông thiên địa,\nCầu chi chẳng được ban.\nNhưng phải giữ đạo đức,\nChớ làm việc gian nan.\nTrời Phật luôn che chở,\nNgười thiện đức bình an.",
+    "tongQuan": "Quẻ rất tốt cho những ai đang mong cầu điều gì đó chính đáng. Sự chân thành của bạn đã động đến lòng trời. Tuy nhiên, điều kiện tiên quyết là mục đích của bạn phải lương thiện và không làm tổn hại đến ai. Mọi mong cầu ích kỷ sẽ không được linh ứng.",
+    "nhanQua": "Tâm thành là nhân của sự cảm ứng. Khi tần số của tâm bạn trùng với tần số của sự thiện lành trong vũ trụ, bạn sẽ nhận được sự trợ giúp mãnh liệt. Đây là kết quả của lối sống ngay thẳng và niềm tin kiên định của bạn.",
+    "loiKhuyen": "Hãy tiếp tục cầu nguyện và hành động đúng đắn. Đừng dùng mưu mẹo hay thủ đoạn để đạt mục đích nhanh hơn. Sự kiên trì và chân thành là con đường ngắn nhất dẫn đến thành công viên mãn."
   },
   {
-    "so": 17,
-    "baiKe": "Bố thí lòng thành phước vô biên,\nNhận lại niềm vui, dứt ưu phiền.\nCho đi chẳng mất, còn mãi đó,\nTích tụ thiện căn, hiển thánh hiền.\nĐời người ngắn ngủi như sương sớm,\nHãy sống sao cho trọn vẹn duyên.",
-    "tongQuan": "Đây là thời điểm vàng để thực hiện các hoạt động thiện nguyện. Bạn càng cho đi nhiều, bạn sẽ càng nhận lại được những nguồn lực bất ngờ. Đừng sợ thiếu thốn, vì quy luật của vũ trụ là 'trống chỗ nào sẽ đầy chỗ đó'. Vận tài lộc của bạn đang mở rộng thông qua cửa ngõ của sự hào phóng.",
-    "nhanQua": "Sự giàu có đích thực không tính bằng số tiền trong ngân hàng, mà tính bằng số người bạn đã giúp đỡ. Những gì bạn nắm giữ sẽ mất khi bạn chết, những gì bạn cho đi sẽ theo bạn mãi mãi như một loại năng lượng bảo vệ. Bạn đang gieo hạt giống 'Cát tường' cho nhiều kiếp sau.",
-    "loiKhuyen": "Hãy trích một phần thu nhập để giúp đỡ người nghèo, cúng dường chùa chiền hoặc hỗ trợ các quỹ vaccine, giáo dục. Bố thí không chỉ là tiền bạc, mà còn là ánh mắt nụ cười, lời động viên (Vô úy thí). Hãy làm với tâm không mong cầu, phước báu sẽ cực kỳ to lớn."
+    "so": 57,
+    "baiKe": "Phóng sinh cứu vạn loại,\nPhước đức lớn vô biên.\nTai qua nạn khỏi hết,\nDứt sạch mọi ưu phiền.\nLòng từ bi tỏa ngát,\nĐời đẹp tựa cảnh tiên.",
+    "tongQuan": "Nếu bạn đang gặp hạn, bệnh tật hoặc xui xẻo liên miên, quẻ khuyên hãy thực hành cứu mạng chúng sinh. Việc bảo vệ sự sống của loài vật sẽ tạo ra một luồng phước báu cực mạnh để hóa giải các tai ách đang bủa vây bạn.",
+    "nhanQua": "Nợ mạng phải trả bằng mạng, hoặc bù đắp bằng việc cứu mạng. Nhân của sự sát sinh là đoản thọ và bệnh tật. Nhân của sự phóng sinh, cứu vật là sức khỏe và sự bảo hộ của thiên thần. Bạn đang có cơ hội để 'chuộc lỗi' với những chúng sinh mình từng làm hại.",
+    "loiKhuyen": "Hãy phóng sinh một cách trí tuệ (không đặt trước, chọn môi trường sống phù hợp cho vật). Ngoài ra, hãy tập thói quen không sát hại ngay cả những loài côn trùng nhỏ. Lòng từ bi đối với muôn loài sẽ tạo nên một từ trường bảo vệ bạn cực kỳ linh nghiệm."
   },
   {
-    "so": 18,
-    "baiKe": "Thân khỏe tâm an, ấy là tiên,\nChớ có tham cầu chuốc lụy phiền.\nĂn uống thanh đạm dưỡng sinh khí,\nGiấc ngủ an lành, dứt đảo điên.\nCuộc đời quý nhất sự bình lặng,\nĐừng để bão giông cuốn mất duyên.",
-    "tongQuan": "Quẻ này tập trung vào sức khỏe và sự ổn định tâm lý. Bạn có thể đang làm việc quá sức hoặc lo nghĩ quá nhiều khiến năng lượng bị cạn kiệt. Vận trình nhắc bạn rằng 'Có sức khỏe là có tất cả'. Hãy tạm gác lại những tham vọng vĩ đại để quay về chăm sóc bản thân.",
-    "nhanQua": "Thân thể là đền thờ của tâm linh. Việc bạn bỏ bê sức khỏe chính là một hình thức ngược đãi bản thân, tạo ra ác nghiệp với chính mình. Những cơn đau nhức hay mệt mỏi là tiếng chuông cảnh báo. Hãy biết ơn cơ thể đã phục vụ bạn bấy lâu và bắt đầu đối xử tử tế với nó.",
-    "loiKhuyen": "Nên ăn chay, tập Yoga hoặc hành thiền để cân bằng lại dòng năng lượng trong cơ thể. Tránh xa các chất kích thích và những cuộc nhậu nhẹt vô bổ. Ngủ sớm và dậy sớm hít thở không khí trong lành. Một cơ thể khỏe mạnh sẽ tự nhiên thu hút những vận may tốt lành nhất."
+    "so": 58,
+    "baiKe": "Tiết chế lòng ham muốn,\nDưỡng tánh tịnh như gương.\nĐừng vì một chút lợi,\nMà đánh mất yêu thương.\nSống đời thanh cao khiết,\nRạng rỡ khắp muôn phương.",
+    "tongQuan": "Vận trình nhắc bạn về sự 'Tiết độ'. Có thể bạn đang bị cuốn vào một thú vui hay một đam mê nào đó quá mức (cờ bạc, mua sắm, tửu sắc...). Quẻ cảnh báo nếu không dừng lại đúng lúc, bạn sẽ đánh mất cả danh dự lẫn tiền bạc.",
+    "nhanQua": "Sự sa đọa là nhân của sự tan vỡ và nghèo khổ trong tương lai. Việc biết dừng lại (thiểu dục) là biểu hiện của một ý chí mạnh mẽ và trí tuệ sáng suốt. Bạn đang đứng trước ranh giới giữa sự thăng hoa và sự sụp đổ.",
+    "loiKhuyen": "Hãy nhìn lại những ưu tiên trong cuộc sống của mình. Tập nói 'không' với những cám dỗ nhất thời. Tìm kiếm những niềm vui thanh cao hơn như đọc sách, làm vườn hay tu tập. Một tâm hồn trong sạch là tài sản quý giá nhất mà không ai có thể lấy mất của bạn."
   },
   {
-    "so": 19,
-    "baiKe": "Trăm năm một kiếp nhân sinh tạm,\nHơn thua làm gì để khổ nhau?\nHãy sống như hoa sen tinh khiết,\nTỏa ngát hương thơm giữa đầm sâu.\nMắt thương nhìn đời, lòng rộng mở,\nThế gian từ đây hết khổ đau.",
-    "tongQuan": "Quẻ này mang tính giáo hóa rất cao. Bạn đang ở trong một môi trường có nhiều sự cạnh tranh hoặc đố kỵ. Lời khuyên cho bạn là hãy đứng ngoài vòng xoáy đó. Đừng để mình bị biến chất bởi những thói hư tật xấu của người khác. Sự thanh cao của bạn chính là lá chắn tốt nhất.",
-    "nhanQua": "Mọi sự gặp gỡ đều là duyên nợ. Những người gây khó dễ cho bạn hôm nay có thể là những người bạn từng đối xử không tốt trong quá khứ. Thay vì dùng bạo lực hay mưu kế để đối phó, hãy dùng tình thương để chuyển hóa. Tình thương là vũ khí mạnh nhất có thể khuất phục mọi kẻ thù.",
-    "loiKhuyen": "Thực hành 'Ánh mắt từ bi'. Nhìn mọi người như anh em, cha mẹ trong nhiều đời của mình. Khi nhìn thấy ai làm sai, hãy khởi lòng thương xót thay vì giận dữ. Nên đeo một chuỗi hạt hoặc hình tượng Phật bên mình để nhắc nhở bản thân luôn sống trong chánh niệm và yêu thương."
+    "so": 59,
+    "baiKe": "Gieo hạt bồ đề tâm,\nChăm bón bằng đức tin.\nCây cao bóng mát rượi,\nPhước báu tựa muôn nghìn.\nĐừng tìm Phật phương ngoại,\nPhật tại tâm chính mình.",
+    "tongQuan": "Đây là quẻ của sự 'Giác ngộ'. Bạn đang có duyên lành rất lớn với Phật pháp hoặc tâm linh. Hãy dành thời gian để nghiên cứu và thực hành. Con đường này không chỉ mang lại sự bình an cho bạn mà còn giúp ích cho rất nhiều người xung quanh thông qua sự thay đổi của chính bạn.",
+    "nhanQua": "Việc bạn tìm đến tâm linh lúc này là kết quả của căn lành từ nhiều kiếp trước. Nhân của sự tu tập là trí tuệ và sự giải thoát khỏi khổ đau. Bạn đang đi đúng hướng để tìm về với bản thể chân thật và hạnh phúc vĩnh cửu của mình.",
+    "loiKhuyen": "Hãy bắt đầu bằng những việc nhỏ: đọc một trang kinh, ngồi thiền 5 phút, hoặc đơn giản là sống tử tế với mọi người. Đừng thần thánh hóa đạo Phật, hãy coi đó là một lối sống tỉnh thức. Phật ở trong tâm bạn, chỉ chờ bạn quay về nhận diện mà thôi."
   },
   {
-    "so": 20,
-    "baiKe": "Hồi đầu thị ngạn, bến bờ vui,\nLầm lỗi xưa nay hãy dập vùi.\nLàm mới cuộc đời từ tâm ý,\nĐường quang rộng mở, chẳng sụt sùi.\nPhật lực gia trì người hối cải,\nTương lai rạng rỡ, chẳng xa xôi.",
-    "tongQuan": "Đây là quẻ của sự 'Làm mới'. Nếu bạn cảm thấy cuộc sống mình đang quá bế tắc hoặc tràn đầy lỗi lầm, thì đây chính là thời điểm để 'tái sinh'. Đừng nhìn về quá khứ với sự hối tiếc, hãy bắt đầu một chương mới ngay từ giây phút này. Mọi thứ đều có thể bắt đầu lại.",
-    "nhanQua": "Quá khứ đã qua, tương lai chưa đến, chỉ có hiện tại là thực. Nhân quả rất công bằng nhưng cũng rất từ bi. Chỉ cần một niệm hối cải chân thành và quyết tâm làm lại cuộc đời, bạn đã bắt đầu gieo một hạt giống hoàn toàn mới, sẽ cho ra một cây đời hoàn toàn khác.",
-    "loiKhuyen": "Hãy viết ra những điều bạn muốn thay đổi và quyết tâm thực hiện từng chút một. Tìm một môi trường sống mới hoặc những người bạn mới có cùng chí hướng thiện lành. Nên thực hiện một chuyến hành hương về các vùng đất thánh hoặc đi khóa tu ngắn hạn để nạp lại năng lượng tích cực cho cuộc đời mới."
-  }
-    {
-    "so": 21,
-    "baiKe": "Sông sâu tĩnh lặng nước trong ngần,\nNgười trí khiêm cung đức tự thân.\nChớ khoe danh lợi phù hoa ấy,\nHãy giữ tâm lành, lánh bụi trần.\nHoa thơm hữu ý dâng cho đời,\nPhước báu tràn trề, ý vẹn phân.",
-    "tongQuan": "Vận trình của bạn lúc này cần sự tĩnh lặng và khiêm nhường. Bạn có tài năng và công đức, nhưng nếu quá phô trương sẽ dễ chuốc lấy sự đố kỵ từ kẻ tiểu nhân. Hãy như dòng sông sâu, càng chứa nhiều nước càng lặng lẽ. Thành công bền vững chỉ đến với người biết giấu mình và tu dưỡng nội lực.",
-    "nhanQua": "Sự thông minh và địa vị hiện tại là kết quả của việc bạn đã từng tôn trọng bậc hiền triết và ham học hỏi trong quá khứ. Tuy nhiên, nếu nảy sinh tâm ngạo mạn, phước báu sẽ tiêu tan rất nhanh. Giữ tâm bình đẳng, không khinh rẻ người yếu kém hơn mình chính là cách bảo vệ vận may của bạn.",
-    "loiKhuyen": "Hãy thực hành hạnh khiêm cung. Khi nhận được lời khen ngợi, hãy thầm cảm ơn những nhân duyên đã giúp đỡ mình thay vì tự mãn. Nên dành thời gian đọc tiểu sử các bậc cao tăng hoặc vĩ nhân để học cách sống giản dị. Một tâm hồn khiêm hạ là mảnh đất tốt nhất cho trí tuệ nảy mầm."
-  },
-  {
-    "so": 22,
-    "baiKe": "Lòng biết ơn soi sáng nẻo đường,\nHóa giải hận thù, dứt vấn vương.\nCảm ơn nghịch cảnh rèn ý chí,\nBiết ơn thuận cảnh rải tình thương.\nĐời người tươi đẹp khi biết đủ,\nVạn sự hanh thông, khắp mọi đường.",
-    "tongQuan": "Đây là thời điểm để bạn thực hành lòng biết ơn một cách triệt để. Vận may của bạn đang bị nghẽn lại bởi những lời than vãn hoặc sự không hài lòng với thực tại. Khi bạn bắt đầu trân trọng những gì mình đang có, dù là nhỏ nhất, dòng chảy phước báu sẽ tự động thông suốt trở lại.",
-    "nhanQua": "Nghịch cảnh bạn gặp hôm nay thực chất là 'người thầy' đang giúp bạn trả nợ nghiệp cũ và rèn luyện tâm tính. Thay vì oán trách người làm khổ mình, hãy hiểu rằng họ đang đóng vai ác để giúp bạn hoàn thiện đức nhẫn nhục. Lòng biết ơn là liều thuốc mạnh nhất để chuyển hóa ác nghiệp thành thiện duyên.",
-    "loiKhuyen": "Mỗi tối trước khi ngủ, hãy liệt kê 5 điều bạn cảm thấy biết ơn trong ngày. Hãy chủ động nói lời cảm ơn đến những người xung quanh, kể cả những người phục vụ hay giúp việc cho bạn. Năng lượng tích cực từ lòng biết ơn sẽ thu hút những quý nhân và cơ hội mới đến với cuộc đời bạn."
-  },
-  {
-    "so": 23,
-    "baiKe": "Tinh tấn siêng năng chẳng ngại ngần,\nĐường tu nghiệp đạo dẫu gian truân.\nNhư kiến tha lâu đầy tổ ấm,\nNhư mài sắt nhọn hóa kim thân.\nChớ để thời gian trôi lãng phí,\nQuả ngọt mai sau hiển hiển phân.",
-    "tongQuan": "Quẻ này nhắc nhở bạn về sự kiên trì và nỗ lực không ngừng nghỉ (Tinh tấn). Có thể bạn đang cảm thấy mệt mỏi hoặc muốn bỏ cuộc giữa chừng. Tuy nhiên, thành công đã ở rất gần, chỉ cần bạn cố gắng thêm một chút nữa. 'Đường đi không khó vì ngăn sông cách núi, mà khó vì lòng người ngại núi e sông'.",
-    "nhanQua": "Sự trì trệ hiện tại có thể do thói quen ỷ lại hoặc lười biếng từ trước. Nhân quả của sự lười biếng là nghèo nàn và lạc hậu; nhân quả của sự tinh tấn là giàu sang và trí tuệ. Bạn đang đứng trước cơ hội để thay đổi số phận bằng chính đôi tay và khối óc của mình qua sự nỗ lực chân chính.",
-    "loiKhuyen": "Hãy lập kế hoạch làm việc cụ thể và thực hiện nó một cách kỷ luật. Tránh xa những thú vui nhất thời làm xao nhãng mục tiêu lớn. Nên niệm danh hiệu Bồ Tát Đại Thế Chí để tăng thêm nghị lực và sức mạnh nội tâm. Sự kiên trì của bạn hôm nay sẽ là niềm tự hào của bạn vào ngày mai."
-  },
-  {
-    "so": 24,
-    "baiKe": "Độc hành độc bộ giữa trần gian,\nTâm chẳng lung lay trước bạo tàn.\nTìm về hải đảo tự thân ấy,\nChẳng dựa ngoài kia những hão huyền.\nSen nở trong tâm, đời rạng rỡ,\nAn nhiên tự tại, dứt sầu lo.",
-    "tongQuan": "Quẻ này khuyên bạn nên tìm về sự cô độc thanh tịnh (Độc cư). Đừng quá trông chờ vào sự giúp đỡ của người khác hay chạy theo đám đông. Bạn có đủ nội lực để giải quyết vấn đề của chính mình. Đây là lúc lý tưởng để bạn nhìn sâu vào nội tâm, thấu hiểu những mong muốn thực sự của bản thân.",
-    "nhanQua": "Sự dựa dẫm vào ngoại cảnh thường dẫn đến khổ đau khi cảnh vật thay đổi. Nhân quả nhắc bạn rằng 'Ai ăn nấy no, ai tu nấy đắc'. Việc bạn phải tự mình đối mặt với khó khăn lúc này là để bạn nhận ra giá trị của sự tự lập. Khi tâm bạn vững chãi, cả thế giới sẽ không thể làm lay chuyển được bạn.",
-    "loiKhuyen": "Hãy dành thời gian đi dạo một mình hoặc ngồi tĩnh tâm trong không gian yên lặng. Hạn chế sử dụng mạng xã hội và những nguồn tin gây nhiễu loạn. Tự thắp đuốc lên mà đi, lấy chính pháp làm ngọn đèn soi sáng. Sự tự tin từ bên trong sẽ giúp bạn vượt qua mọi sóng gió cuộc đời."
-  },
-  {
-    "so": 25,
-    "baiKe": "Cho đi tình ái, nhận từ bi,\nBuông bỏ tham lam, dứt lụy lụy.\nVàng bạc đầy kho không sánh nổi,\nMột niệm tịnh thanh, dứt thị phi.\nSống đời thanh khiết như mây trắng,\nDạo khắp nhân gian chẳng vướng gì.",
-    "tongQuan": "Vận trình nhắc bạn về sự 'Buông bỏ' (Ly tham). Bạn đang nắm giữ quá nhiều thứ, từ vật chất đến những cảm xúc tiêu cực, điều này làm bạn cảm thấy nặng nề. Quẻ này cho thấy nếu bạn dám buông tay khỏi những thứ không thực sự thuộc về mình, bạn sẽ nhận được những giá trị tinh thần cao quý hơn gấp bội.",
-    "nhanQua": "Khổ đau sinh ra từ sự bám chấp (Thủ). Càng muốn sở hữu, bạn càng bị trói buộc. Những mất mát bạn gặp phải có thể là cách vũ trụ giúp bạn 'giảm tải' để đi nhanh hơn trên con đường đạo đức. Khi tâm không còn mong cầu sở hữu, bạn chính là người giàu có nhất thế gian vì không còn sợ mất mát.",
-    "loiKhuyen": "Hãy tập buông xả từ những việc nhỏ: tha thứ cho một lời nói xúc phạm, tặng món đồ mình thích cho người cần hơn. Thực hành thiền quán về sự vô thường của vạn vật. Khi nhận ra không có gì là vĩnh cửu, bạn sẽ sống thanh thản và trân trọng từng phút giây hiện tại một cách trọn vẹn nhất."
-  },
-  {
-    "so": 26,
-    "baiKe": "Chân thật là cha của vạn lành,\nDối gian là gốc của tan tành.\nSống đời ngay thẳng không tì vết,\nTrời Phật chứng minh, phước sẵn dành.\nĐừng vì lợi nhỏ mà sai trái,\nHổ thẹn lương tâm, nghiệp quẩn quanh.",
-    "tongQuan": "Đây là quẻ về sự 'Chính trực'. Bạn có thể đang đứng trước một cám dỗ về lợi ích tài chính nhưng đòi hỏi phải làm trái lương tâm hoặc lừa dối người khác. Quẻ cảnh báo rằng 'Lưới trời lồng lộng, tuy thưa nhưng khó lọt'. Sự chân thật có thể khiến bạn chịu thiệt thòi ngắn hạn nhưng sẽ mang lại danh tiếng và sự an ổn trường tồn.",
-    "nhanQua": "Nghiệp dối trá (Vọng ngữ) dẫn đến hậu quả bị người khác nghi ngờ và đánh mất niềm tin trong tương lai. Ngược lại, nhân của sự chân thật sẽ chiêu cảm được những cộng sự trung thành và sự hộ trì của thiện thần. Những gì đạt được bằng sự gian dối sẽ nhanh chóng tan biến như bọt nước.",
-    "loiKhuyen": "Hãy giữ đúng lời hứa và làm việc minh bạch. Nếu lỡ phạm lỗi, hãy dũng cảm nhận lỗi thay vì tìm cách che đậy. Sự thành khẩn sẽ hóa giải được phần lớn tai ách. Nên niệm danh hiệu Đức Phật A Di Đà để tâm trí luôn được sáng suốt và giữ gìn được sự trong sạch của bản tâm."
-  },
-  {
-    "so": 27,
-    "baiKe": "Trung đạo mà đi, chẳng lệch lòng,\nCăng quá thì đứt, chớ hoài công.\nChùng quá thì hư, đời lãng phí,\nGiữ mực thăng bằng, ý vẹn trong.\nDây đàn khéo chỉnh âm vang vọng,\nĐời người khéo sống, hưởng thong dong.",
-    "tongQuan": "Vận trình khuyên bạn nên giữ sự cân bằng (Trung đạo). Bạn có thể đang làm việc quá sức hoặc ngược lại, đang quá buông thả bản thân. Cả hai thái cực đều dẫn đến thất bại. Hãy tìm ra 'điểm rơi' hợp lý giữa công việc và nghỉ ngơi, giữa lý trí và tình cảm. Sự hài hòa chính là chìa khóa của hạnh phúc.",
-    "nhanQua": "Cuộc sống là một bài toán cân bằng năng lượng. Việc bạn cực đoan trong suy nghĩ hay hành động sẽ tạo ra những phản ứng ngược từ môi trường xung quanh. Nhân của sự điều độ sẽ gặt quả là sức khỏe bền lâu và tâm lý ổn định. Đừng ép mình vào những khuôn mẫu cứng nhắc, hãy linh hoạt như dòng nước.",
-    "loiKhuyen": "Hãy xem xét lại thời biểu sinh hoạt của mình. Dành thời gian vừa đủ cho gia đình, công việc và việc tu tập. Tránh xa những tư tưởng cực đoan hay những giáo phái huyền bí gây hoang mang. Sống giản đơn, ăn uống điều độ và giữ tâm thái bình thản trước mọi sự biến chuyển của cuộc đời."
-  },
-  {
-    "so": 28,
-    "baiKe": "Kính trên nhường dưới, đạo làm người,\nPhước đức từ đây nở đóa tươi.\nTrọng bậc thầy hiền, đời rạng rỡ,\nThương người khốn khó, rạng nụ cười.\nCây có gốc bền, cành lá tốt,\nNgười có nguồn ân, phúc vạn đời.",
-    "tongQuan": "Quẻ này nhấn mạnh vào đạo lý 'Uống nước nhớ nguồn'. Vận may của bạn đang được nâng đỡ bởi tổ tiên và những bậc tiền bối. Hãy thể hiện sự kính trọng và biết ơn đối với những người đã dạy dỗ hoặc giúp đỡ bạn. Một thái độ cung kính sẽ giúp bạn nhận được nhiều sự chỉ bảo quý giá từ những người đi trước.",
-    "nhanQua": "Sự ngạo mạn với người lớn tuổi hoặc bậc thầy sẽ làm tổn giảm phước báu rất nhanh. Nhân của sự kính trọng là sự thông thái và được người đời nể trọng. Việc bạn gặp được những người thầy giỏi hay cấp trên tốt là do trong quá khứ bạn đã biết tôn trọng đạo lý và người có đức hạnh.",
-    "loiKhuyen": "Hãy dành thời gian thăm hỏi thầy cô giáo cũ hoặc những người lớn tuổi trong dòng họ. Nên cúng dường các bậc tu hành chân chính để gieo duyên lành. Khi làm việc, hãy lắng nghe ý kiến của những người giàu kinh nghiệm. Sự khiêm hạ và kính trọng sẽ mở ra cho bạn những cánh cửa mà tiền bạc không thể mua được."
-  },
-  {
-    "so": 29,
-    "baiKe": "Thân làm việc thiện, miệng lời hay,\nÝ nghĩ từ bi rải khắp ngày.\nTam nghiệp hằng thanh, đời lạc quốc,\nSen hồng nở rộ, ngát hương bay.\nChánh nghiệp là đây, đừng tìm kiếm,\nPhúc lành tự đến, chẳng cần vay.",
-    "tongQuan": "Vận trình của bạn đang rất ổn định nhờ sự tu tập 'Tam nghiệp' (Thân - Khẩu - Ý). Bạn đang sống một cuộc đời có ý nghĩa và mang lại lợi ích cho cộng đồng. Hãy tiếp tục duy trì những thói quen tốt này. Đây là thời điểm tốt để bắt đầu những dự án mang tính bền vững và đạo đức cao.",
-    "nhanQua": "Mọi việc xảy ra đều do 'tâm dẫn đầu các pháp'. Khi tâm bạn thiện, lời nói bạn ái ngữ và hành động bạn cứu người, bạn đang tự tạo ra một thiên đường xung quanh mình. Những quả ngọt bạn nhận được hôm nay chỉ là khởi đầu của một chuỗi những may mắn lớn lao hơn trong tương lai.",
-    "loiKhuyen": "Hãy phát nguyện thực hiện 'Ngũ giới' hoặc 'Thập thiện'. Mỗi ngày hãy làm ít nhất một việc tốt mà không cho ai biết (âm đức). Sự âm thầm tích lũy công đức này sẽ tạo nên một lực bảo vệ cực lớn cho bạn và gia đình trước những tai ương bất ngờ của cuộc đời."
-  },
-  {
-    "so": 30,
-    "baiKe": "Vết thương quá khứ hãy để yên,\nĐừng bới tìm chi thêm lụy phiền.\nHiện tại bây giờ là tất cả,\nHãy sống trọn tình, dứt đảo điên.\nNước chảy qua cầu không trở lại,\nLòng an thì cảnh tựa đào nguyên.",
-    "tongQuan": "Quẻ này khuyên bạn nên chữa lành những tổn thương trong quá khứ. Bạn đang để những ký ức buồn hoặc nỗi hận thù cũ ngăn cản bước tiến của mình. Quá khứ đã qua, nó không còn thật nữa. Hãy học cách buông bỏ những gánh nặng tâm lý để đôi chân bạn được tự do bước đi trên con đường hiện tại.",
-    "nhanQua": "Việc cứ dằn vặt về quá khứ là một hình thức 'tự trừng phạt' bản thân, tạo ra những năng lượng tiêu cực ám ảnh cuộc sống. Nhân quả nhắc bạn rằng mọi sự xảy ra đều có lý do của nó. Hãy chấp nhận quá khứ như một bài học đắt giá và mỉm cười với hiện tại. Khi bạn buông bỏ quá khứ, tương lai sẽ rộng mở.",
-    "loiKhuyen": "Thực hành phương pháp 'Làm mới' (Renewal). Hãy viết ra những nỗi đau cũ vào một tờ giấy rồi đốt đi hoặc thả trôi sông như một nghi thức từ biệt. Nên tập thiền 'Chánh niệm' để tâm trí luôn ở trong giây phút hiện tại. Sự tỉnh thức này chính là liều thuốc chữa lành mọi vết thương tâm hồn hữu hiệu nhất."
-  },
-  {
-    "so": 31,
-    "baiKe": "Hộ pháp thiện thần luôn ở bên,\nChe chở người hiền, đức vững bền.\nTâm thành khẩn thiết cầu linh ứng,\nTai qua nạn khỏi, phúc vươn lên.\nĐừng sợ gian nguy, đừng lo sợ,\nÁnh sáng kim cang chiếu vững nền.",
-    "tongQuan": "Bạn đang được sự bảo hộ rất lớn từ các thế lực tâm linh và thiện thần. Nếu bạn đang gặp nguy hiểm hoặc bế tắc, hãy thành tâm cầu nguyện, sự giúp đỡ sẽ đến từ những nguồn không ngờ tới. Quẻ này khẳng định rằng 'Người thiện không cô độc', vũ trụ luôn đứng về phía người sống chính đạo.",
-    "nhanQua": "Sự bảo hộ này có được là nhờ lòng tin kiên định vào chánh pháp và sự chân thành trong lối sống của bạn. Những việc thiện thầm lặng bạn làm đã tạo ra một 'từ trường' bảo vệ mạnh mẽ. Quỷ thần kính nể người có đức, nên những thế lực xấu ác sẽ tự động lánh xa bạn.",
-    "loiKhuyen": "Nên tụng kinh chú (như chú Đại Bi, chú Lăng Nghiêm) hoặc trì danh hiệu Bồ Tát để tăng cường năng lượng bảo hộ. Giữ gìn sự thanh sạch trong lời nói và ý nghĩ để không làm tổn hại đến vùng năng lượng an lành này. Hãy tin tưởng tuyệt đối vào sự vận hành công bằng của nhân quả."
-  },
-  {
-    "so": 32,
-    "baiKe": "Nhẫn nhục kiên tâm vượt dặm trường,\nĐường dài mới biết sức kiên cường.\nChớ vì mỏi mệt mà buông bỏ,\nThành công rạng rỡ cuối con đường.\nTrời cao luôn thử lòng quân tử,\nVượt qua bão táp, rạng tình thương.",
-    "tongQuan": "Đây là giai đoạn thử thách về độ bền chí. Công việc của bạn có thể kéo dài hơn dự kiến và đòi hỏi sự kiên nhẫn cực lớn. Quẻ này khuyên bạn không nên nôn nóng muốn thấy kết quả ngay. Hãy bền bỉ như dòng nước chảy đá mòn. Sự kiên trì của bạn chính là chìa khóa để mở ra kho tàng thành công.",
-    "nhanQua": "Thành quả lớn không bao giờ đến một cách dễ dàng. Những trở ngại hiện tại là để kiểm tra xem bạn có thực sự xứng đáng với những gì bạn mong cầu hay không. Nhân của sự kiên định sẽ gặt quả là sự nghiệp vững chắc và danh tiếng lẫy lừng. Đừng để một phút nản lòng phá hỏng công lao bấy lâu.",
-    "loiKhuyen": "Hãy chia nhỏ mục tiêu lớn thành những bước đi nhỏ để dễ dàng thực hiện. Khi cảm thấy mệt mỏi, hãy nghỉ ngơi thay vì bỏ cuộc. Tìm kiếm sự động viên từ những người bạn cùng chí hướng. Nên thực hành thiền định để giữ cho tâm trí luôn kiên định và không bị dao động bởi ngoại cảnh."
-  },
-  {
-    "so": 33,
-    "baiKe": "Tâm bình đẳng nhìn khắp muôn phương,\nChẳng phân giàu khó, chẳng phân thường.\nMọi loài đều có dòng máu đỏ,\nHãy sống chan hòa, rải yêu thương.\nLòng không định kiến, đời thanh thản,\nHạnh phúc viên dung, dứt đoạn trường.",
-    "tongQuan": "Vận trình nhắc bạn về sự 'Bình đẳng'. Có thể bạn đang vô tình có thái độ phân biệt đối xử hoặc định kiến với ai đó. Điều này làm hẹp đi tầm nhìn và cơ hội của bạn. Quẻ này khuyên bạn hãy mở lòng đón nhận tất cả mọi người với sự tôn trọng như nhau. Sự bao dung này sẽ mang lại cho bạn sự bình an và uy tín.",
-    "nhanQua": "Định kiến và sự phân biệt là mầm mống của sự chia rẽ và khổ đau. Nhân quả nhắc rằng 'Mọi chúng sinh đều có Phật tánh'. Khi bạn tôn trọng người khác, bạn đang tôn trọng chính mình. Sự bình đẳng trong tâm hồn sẽ chiêu cảm được những mối quan hệ chân thành và quý giá nhất.",
-    "loiKhuyen": "Hãy tập nhìn vào điểm tốt của những người bạn vốn không thích. Thực hành việc giúp đỡ những người có địa vị thấp hơn mình một cách chân thành. Xóa bỏ những rào cản về giai cấp, tôn giáo hay sắc tộc trong suy nghĩ. Một trái tim không biên giới sẽ tìm thấy hạnh phúc ở khắp mọi nơi."
-  },
-  {
-    "so": 34,
-    "baiKe": "Tùy hỷ công đức của người ta,\nLòng vàng tỏa rạng khắp hằng hà.\nChớ nuôi đố kỵ làm đau khổ,\nHãy mừng cho họ, phúc về ta.\nNiềm vui nhân rộng, đời tươi đẹp,\nVạn sự như ý, rạng hương hoa.",
-    "tongQuan": "Vận trình cảnh báo về tâm đố kỵ. Khi thấy người khác thành công hay hạnh phúc, hãy thật lòng chúc mừng họ. Quẻ này cho thấy nếu bạn biết 'Tùy hỷ' (vui theo điều tốt của người), bạn sẽ nhận được phước báu ngang bằng với người làm việc thiện đó. Đây là cách tích lũy công đức dễ dàng và hiệu quả nhất.",
-    "nhanQua": "Tâm đố kỵ như axit ăn mòn phước báu và sức khỏe của chính bạn. Nó tạo ra những chướng ngại cho sự tiến bộ của bản thân. Ngược lại, nhân của sự tùy hỷ sẽ gặt quả là sự thuận lợi và luôn gặp được những điều tốt lành. Hãy biến thành công của người khác thành động lực và niềm vui của chính mình.",
-    "loiKhuyen": "Mỗi ngày hãy tìm ít nhất một điều tốt của người khác để khen ngợi chân thành. Khi thấy ai đó may mắn, hãy thầm niệm: 'Cầu mong cho họ luôn được hạnh phúc và thành công hơn nữa'. Hành động này sẽ thanh lọc tâm hồn và giúp vận mệnh của bạn trở nên sáng sủa hơn rất nhiều."
-  },
-  {
-    "so": 35,
-    "baiKe": "Trí tuệ khác hẳn sự khôn lanh,\nKhôn lanh chỉ lợi việc mong manh.\nTrí tuệ soi thấu nguồn cơn khổ,\nĐưa người giải thoát nẻo tan tành.\nSống đời tỉnh thức, không mê muội,\nPhước đức bền lâu, rạng hiển danh.",
-    "tongQuan": "Bạn cần phân biệt giữa 'Sự thông minh lanh lợi' và 'Trí tuệ thực sự'. Đừng dùng những mưu mẹo nhỏ để đạt được lợi ích ngắn hạn, vì nó thường dẫn đến tai họa về sau. Hãy dùng trí tuệ để nhìn nhận bản chất của sự việc, sống ngay thẳng và đúng đạo lý. Sự bền vững chỉ đến từ những nền tảng chân chính.",
-    "nhanQua": "Người khôn lanh (thế trí biện thông) thường tự hại mình bởi chính sự tính toán của mình. Người có trí tuệ biết rõ nhân quả nên luôn chọn con đường thiện lương dù đôi khi có vẻ thiệt thòi. Quả báu của trí tuệ là sự an lạc vĩnh cửu và sự kính trọng thực sự từ những người xung quanh.",
-    "loiKhuyen": "Hãy học cách nhìn xa trông rộng thay vì chỉ thấy cái lợi trước mắt. Nên nghiên cứu giáo lý về 'Bát chánh đạo' để rèn luyện tư duy đúng đắn (Chánh tư duy). Trước mọi hành động, hãy tự hỏi: Việc này có gây khổ cho ai không? Nếu có trí tuệ, bạn sẽ biết mình nên làm gì để vẹn cả đôi đường."
-  },
-  {
-    "so": 36,
-    "baiKe": "Nguyện lực lớn lao dời núi sông,\nTâm thành cảm ứng đến vô cùng.\nĐừng vì nhỏ hẹp mà giới hạn,\nHãy phát tâm rộng, ý vẫy vùng.\nCứu giúp muôn loài là chí nguyện,\nThánh hiền che chở, phúc ung dung.",
-    "tongQuan": "Đây là lúc bạn nên phát một lời nguyện lớn (Đại nguyện). Cuộc đời bạn sẽ thay đổi khi mục tiêu sống của bạn không còn chỉ bó hẹp trong lợi ích cá nhân mà mở rộng ra cho gia đình, xã hội hoặc chúng sinh. Nguyện lực mạnh mẽ sẽ thu hút những nguồn năng lượng khổng lồ để giúp bạn thực hiện ước mơ.",
-    "nhanQua": "Cuộc đời của một người lớn hay nhỏ tùy thuộc vào 'nguyện' của người đó. Nhân của sự ích kỷ dẫn đến quả báu cô độc và nhỏ bé. Nhân của sự phát tâm rộng lớn sẽ gặt quả là sự trợ giúp từ khắp nơi và sự thành tựu phi thường. Khi bạn muốn làm điều tốt cho đời, cả vũ trụ sẽ hợp lực giúp bạn.",
-    "loiKhuyen": "Hãy viết ra một mục tiêu cao đẹp mà bạn muốn thực hiện cho cuộc đời này. Mỗi sáng hãy nhắc lại lời nguyện đó để định hướng hành động trong ngày. Nên tham gia các hoạt động thiện nguyện hoặc đóng góp cho những quỹ phát triển con người. Nguyện lớn thì phước lớn, sự nghiệp của bạn sẽ thăng hoa từ đây."
-  },
-  {
-    "so": 37,
-    "baiKe": "Sắc diện đẹp tươi cũng chóng phai,\nHãy bồi đức hạnh rạng tương lai.\nHoa nở hoa tàn theo quy luật,\nTâm lành còn mãi với ban mai.\nĐừng mê tướng mạo ngoài sương khói,\nCốt cách thanh cao mới dặm dài.",
-    "tongQuan": "Quẻ này nhắc nhở bạn không nên quá chú trọng vào vẻ bề ngoài hay những hào nhoáng nhất thời. Mọi thứ đẹp đẽ trên đời đều chịu sự chi phối của luật vô thường (già, bệnh, chết). Hãy tập trung vào việc tu dưỡng đạo đức và cốt cách bên trong. Đó mới là vẻ đẹp không bao giờ phai nhạt và thu hút được sự trân trọng thật sự.",
-    "nhanQua": "Sắc đẹp hay danh tiếng hiện tại là quả báu của sự hiền lành và nhẫn nhục trong quá khứ. Tuy nhiên, nếu chỉ lo chăm chút vẻ ngoài mà bỏ quên tâm hồn, bạn đang tiêu xài phước báu một cách lãng phí. Nhân của vẻ đẹp vĩnh cửu chính là một trái tim nhân hậu và trí tuệ sáng suốt.",
-    "loiKhuyen": "Hãy bớt thời gian soi gương và dành thời gian soi lại tâm mình. Tập sống giản dị, chân thành. Nên học cách yêu thương bản thân từ những giá trị thực chất thay vì chạy theo những tiêu chuẩn sắc đẹp nhất thời. Một người có nội tâm an lạc sẽ luôn tỏa ra một sức hút kỳ diệu và bình an."
-  },
-  {
-    "so": 38,
-    "baiKe": "Tâm chiêu cảm cảnh, cảnh theo tâm,\nLòng vui cảnh vật cũng vang âm.\nLòng buồn cảnh cũng sầu tê tái,\nHãy chuyển tâm mình, dứt lặng câm.\nThế giới ngoài kia là tấm gương,\nSoi lòng tinh khiết, rạng hào quang.",
-    "tongQuan": "Mọi sự việc xảy ra xung quanh bạn lúc này đều là phản chiếu từ tâm trạng và suy nghĩ của bạn (Luật chiêu cảm). Nếu bạn thấy thế giới đầy rẫy rắc rối, có thể do tâm bạn đang xao động. Hãy thay đổi thái độ nhìn nhận, cuộc đời bạn sẽ lập tức thay đổi theo. Bạn chính là người tạo nên thế giới của mình.",
-    "nhanQua": "Tâm như người họa sĩ vẽ nên thế gian. Nhân của suy nghĩ tích cực sẽ chiêu cảm những hoàn cảnh thuận lợi và người tốt. Nhân của sự than vãn và tiêu cực sẽ thu hút những rắc rối và chướng duyên. Hãy làm chủ ý nghĩ của mình, vì đó là gốc rễ của mọi vui buồn sướng khổ trong đời bạn.",
-    "loiKhuyen": "Mỗi khi gặp chuyện không ưng ý, đừng vội đổ lỗi cho hoàn cảnh. Hãy ngồi lại, quan sát hơi thở và tìm xem trong tâm mình đang có hạt giống tiêu cực nào đang nảy mầm. Thực hành niệm Phật hoặc nghe nhạc thiền để điều chỉnh tần số rung động của tâm hồn. Tâm an thì vạn sự tự nhiên an."
-  },
-  {
-    "so": 39,
-    "baiKe": "Ánh đạo vàng soi nẻo tối tăm,\nĐưa người giải thoát cảnh âm thầm.\nBuông tay khỏi những vòng sanh tử,\nTìm về bờ giác, dứt sai lầm.\nĐời là bể khổ, tâm là thuyền,\nVượt sóng vô minh, rạng hào âm.",
-    "tongQuan": "Đây là quẻ của sự 'Thức tỉnh'. Bạn đang đứng trước cơ hội lớn để thay đổi hoàn toàn quan niệm sống. Có thể một sự kiện nào đó sẽ xảy ra làm bạn nhận ra ý nghĩa thực sự của cuộc đời. Đừng sợ hãi sự thay đổi, vì đây là bước ngoặt để bạn thoát khỏi những khổ đau luân hồi và tìm thấy bình an đích thực.",
-    "nhanQua": "Mọi đau khổ bạn nếm trải đều là động lực để bạn tìm về với đạo. Nhân quả đưa bạn đến điểm nút này để bạn chọn lựa giữa 'mê' và 'giác'. Việc bạn có duyên với Phật pháp lúc này là kết quả của việc bạn đã khao khát chân lý từ nhiều kiếp. Hãy nắm lấy cơ hội này để tu tập và chuyển hóa đời mình.",
-    "loiKhuyen": "Hãy dành thời gian để nghiên cứu sâu về triết lý Phật giáo hoặc tham gia một khóa tu ngắn hạn. Nên tập thói quen quán chiếu về sự khổ, không, vô thường, vô ngã để bớt bám chấp vào cuộc đời. Sự tỉnh thức là món quà quý giá nhất mà bạn có thể tặng cho chính mình trong kiếp người này."
-  },
-  {
-    "so": 40,
-    "baiKe": "Giải thoát phiền hà, dứt khổ đau,\nTâm không vướng bận, rạng ngời màu.\nHư không vắng lặng mà mầu nhiệm,\nHạnh phúc vô cùng, chẳng sắc màu.\nĐến đi tự tại, cười vạn dặm,\nBậc thánh nhân này, chẳng ở đâu.",
-    "tongQuan": "Quẻ số 40 là biểu tượng của sự 'Viên mãn'. Mọi khó khăn, nợ nần và vướng mắc của bạn đang dần tan biến. Bạn đang chạm tới trạng thái tự tại, không còn bị ngoại cảnh chi phối. Đây là một giai đoạn rất đẹp, hãy tận hưởng sự bình an này và chia sẻ nó với những người xung quanh.",
-    "nhanQua": "Sau khi đã trải qua đủ mọi thăng trầm, thử thách và đã trả hết những món nợ nghiệp lực, bạn đã gặt hái được quả báu của sự tự do. Đây là kết quả của một quá trình tu tập nhẫn nhục, trí tuệ và từ bi bền bỉ. Tâm không còn dính mắc chính là phần thưởng lớn nhất cho một hành giả chân chính.",
-    "loiKhuyen": "Hãy giữ vững trạng thái tâm 'Vô sở đắc' (không mong cầu sở hữu). Tiếp tục sống đời giản đơn và phụng sự chúng sinh bằng trí tuệ và lòng từ sẵn có. Đừng để những thành công này làm bạn nảy sinh tâm kiêu mạn. Hãy là một tấm gương về sự an lạc và tự tại cho mọi người noi theo."
+    "so": 60,
+    "baiKe": "Sáu mươi năm cuộc đời,\nTựa như một sát na.\nBuông rơi mọi gánh nặng,\nHát bản tình ca ta.\nAn nhiên và tự tại,\nVượt thoát nẻo ta bà.",
+    "tongQuan": "Quẻ số 60 đánh dấu sự kết thúc của một chu kỳ và bắt đầu một trang mới. Bạn đã trải qua đủ ngọt bùi cay đắng, giờ là lúc để 'Buông'. Buông bỏ sự lo âu, buông bỏ sự nắm giữ. Hãy sống một cuộc đời thong dong, nhẹ nhàng như mây trôi nước chảy.",
+    "nhanQua": "Sau tất cả những nhân duyên đã đi qua, bạn nhận ra rằng mọi thứ chỉ là phương tiện để rèn luyện tâm hồn. Việc bạn đạt được trạng thái tự tại lúc này là thành tựu lớn nhất của kiếp người. Bạn không còn bị ràng buộc bởi được - mất, hơn - thua.",
+    "loiKhuyen": "Hãy sống mỗi ngày như thể đó là ngày cuối cùng, với đầy ắp tình yêu và sự bao dung. Chia sẻ kinh nghiệm sống của mình cho thế hệ trẻ với tâm thế không áp đặt. Một cuộc đời viên mãn không tính bằng số năm sống mà tính bằng độ sâu của sự bình an trong tâm hồn."
   }
 ]
